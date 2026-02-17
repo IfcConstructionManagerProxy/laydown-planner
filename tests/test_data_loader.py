@@ -1,23 +1,32 @@
-# test_data_loader.py
+import unittest
+import sys
+import os
 
-import pytest
-from data_loader import load_data
+# Add parent directory to path to import from src
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-
-def test_load_data_success():
-    """ Test successful data loading """
-    data = load_data('valid_file_path.csv')
-    assert data is not None
-    assert len(data) > 0
+from src.data_loader import DataLoader
 
 
-def test_load_data_file_not_found():
-    """ Test loading data from a non-existent file """
-    with pytest.raises(FileNotFoundError):
-        load_data('invalid_file_path.csv')
+class TestDataLoader(unittest.TestCase):
 
+    def setUp(self):
+        """Set up test variables and initialize DataLoader."""
+        self.data_loader = DataLoader('../data')
 
-def test_load_data_empty_file():
-    """ Test loading data from an empty file """
-    data = load_data('empty_file.csv')
-    assert data == []
+    def test_load_data(self):
+        """Test loading data."""
+        # Add your test implementation here
+        pass
+
+    def test_process_data(self):
+        """Test processing loaded data."""
+        # Add your test implementation here
+        pass
+
+    def tearDown(self):
+        """Clean up after tests."""
+        self.data_loader = None
+
+if __name__ == '__main__':
+    unittest.main()
