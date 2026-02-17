@@ -1,13 +1,51 @@
 object_id,name,category,width,length,height,weight,stackable,max_stack_height
-OBJ001,Cement Bags,Materials,1.0,1.0,1.5,50,True,5
-OBJ002,Steel Beams,Materials,0.5,12.0,0.5,500,False,1
-OBJ003,Wooden Planks,Materials,0.25,4.0,0.1,30,True,8
-OBJ004,Concrete Blocks,Materials,0.4,0.2,0.2,20,True,6
-OBJ005,Scaffolding,Equipment,1.5,1.5,0.2,100,True,4
-OBJ006,Concrete Mixer,Equipment,2.0,2.0,1.5,200,False,1
-OBJ007,Forklift,Equipment,2.5,4.0,2.0,1500,False,1
-OBJ008,Wheel Barrow,Equipment,1.0,2.0,1.0,50,True,2
-OBJ009,Power Drill,Equipment,0.3,0.3,0.4,5,True,10
-OBJ010,Safety Cones,Equipment,0.3,0.3,1.0,2,True,15
-OBJ011,Tarps,Materials,5.0,5.0,0.05,25,True,5
-OBJ012,Electrical Cable,Materials,0.1,100.0,0.1,50,True,3
+1,Object A,Category 1,100,200,150,300,TRUE,10
+2,Object B,Category 1,110,210,160,350,TRUE,8
+3,Object C,Category 2,120,220,170,400,FALSE,0
+4,Object D,Category 2,130,230,175,500,TRUE,12
+5,Object E,Category 3,140,240,180,600,FALSE,0
+6,Object F,Category 3,150,250,185,700,TRUE,15
+7,Object G,Category 1,160,260,190,800,TRUE,9
+8,Object H,Category 2,170,270,195,400,FALSE,0
+9,Object I,Category 1,180,280,200,400,TRUE,11
+10,Object J,Category 3,190,290,205,900,FALSE,0
+11,Object K,Category 1,200,300,210,1000,TRUE,13
+12,Object L,Category 2,110,310,215,220,TRUE,6
+13,Object M,Category 1,120,320,220,330,TRUE,8
+14,Object N,Category 3,130,330,225,440,FALSE,0
+15,Object O,Category 2,140,340,230,550,TRUE,10
+16,Object P,Category 1,150,350,235,660,TRUE,9
+17,Object Q,Category 3,160,360,240,770,FALSE,0
+18,Object R,Category 2,170,370,245,880,TRUE,8
+19,Object S,Category 1,180,380,250,990,FALSE,0
+20,Object T,Category 3,190,390,255,1100,TRUE,5
+21,Object U,Category 2,200,400,260,1200,TRUE,15
+22,Object V,Category 1,110,410,265,1300,FALSE,0
+23,Object W,Category 3,120,420,270,1400,TRUE,14
+24,Object X,Category 1,130,430,275,1500,TRUE,13
+25,Object Y,Category 2,140,440,280,1600,FALSE,0
+26,Object Z,Category 3,150,450,285,1700,TRUE,12
+27,Object AA,Category 1,160,460,290,1800,TRUE,11
+28,Object AB,Category 2,170,470,295,1900,TRUE,10
+29,Object AC,Category 3,180,480,300,2000,FALSE,0
+30,Object AD,Category 1,190,490,305,2100,TRUE,9
+31,Object AE,Category 2,200,500,310,2200,TRUE,8
+32,Object AF,Category 1,110,510,315,2300,FALSE,0
+33,Object AG,Category 3,120,520,320,2400,TRUE,7
+34,Object AH,Category 1,130,530,325,2500,TRUE,6
+35,Object AI,Category 2,140,540,330,2600,FALSE,0
+36,Object AJ,Category 3,150,550,335,2700,TRUE,5
+37,Object AK,Category 1,160,560,340,2800,TRUE,4
+38,Object AL,Category 2,170,570,345,2900,FALSE,0
+39,Object AM,Category 3,180,580,350,3000,TRUE,3
+40,Object AN,Category 1,190,590,355,3100,TRUE,2
+41,Object AO,Category 2,200,600,360,3200,FALSE,0
+42,Object AP,Category 3,110,610,365,3300,TRUE,1
+43,Object AQ,Category 2,120,620,370,3400,TRUE,0
+44,Object AR,Category 1,130,630,375,3500,FALSE,0
+45,Object AS,Category 3,140,640,380,3600,TRUE,1
+46,Object AT,Category 1,150,650,385,3700,TRUE,2
+47,Object AU,Category 2,160,660,390,3800,FALSE,0
+48,Object AV,Category 3,170,670,395,3900,TRUE,3
+49,Object AW,Category 1,180,680,400,4000,TRUE,4
+50,Object AX,Category 2,190,690,405,4100,FALSE,0
