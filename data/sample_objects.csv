@@ -1,0 +1,6 @@
+Name,Width,Length,Height,Weight,Qty,Stackable,Max_Stack_Height,Preferred_Zone
+Excavator,2.5,6.0,3.0,5000,2,Yes,3.0,Zone A
+Loader,2.0,5.0,3.0,4500,3,Yes,2.5,Zone A
+CementMixer,2.0,4.0,3.0,4000,4,No,3.0,Zone B
+Forklift,1.5,3.0,2.0,3000,5,Yes,2.0,Zone C
+DumpTruck,2.6,7.0,3.0,8000,2,No,3.5,Zone D
