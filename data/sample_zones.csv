@@ -1,0 +1,11 @@
+zone_id,zone_name,zone_type,x_min,y_min,x_max,y_max,area_sqm,max_capacity_tons,current_usage_tons,access_type
+ZONE001,Storage Area A,Storage,0,0,50,30,1500,500,250,Forklift
+ZONE002,Storage Area B,Storage,50,0,100,30,1500,500,180,Forklift
+ZONE003,Material Staging,Staging,0,30,50,60,1500,300,150,Forklift
+ZONE004,Equipment Yard,Equipment,100,0,150,60,3000,1000,600,Truck
+ZONE005,Office & Safety,Administrative,50,60,100,90,1500,100,30,Foot
+ZONE006,Parking Area,Parking,100,60,150,90,1500,50,40,Vehicle
+ZONE007,Waste Management,Disposal,0,60,50,90,1500,200,100,Truck
+ZONE008,Scaffolding Storage,Storage,150,0,200,30,1500,300,200,Forklift
+ZONE009,Temporary Walkway,Access,50,45,100,55,500,0,0,Foot
+ZONE010,Concrete Batching,Production,150,30,200,60,1500,800,400,Truck
