@@ -1,0 +1,7 @@
+pandas
+openpyxl
+ezdxf
+shapely
+matplotlib
+numpy
+scipy
