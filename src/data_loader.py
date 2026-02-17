@@ -1,17 +1,18 @@
 class DataLoader:
-    def __init__(self, excel_file, schedule_file, dxf_file):
-        self.excel_file = excel_file
-        self.schedule_file = schedule_file
-        self.dxf_file = dxf_file
-
-    def load_objects_from_excel(self):
-        # Logic to load objects from Excel file
+    def __init__(self):
         pass
 
-    def load_schedule_data(self):
-        # Logic to load schedule data
+    def load_objects(self, filepath):
+        """Load objects from a file."
+        # Implement loading logic here
         pass
 
-    def parse_dxf_laydown_maps(self):
-        # Logic to parse DXF laydown maps
+    def load_schedule(self, filepath):
+        """Load scheduling data from a file."
+        # Implement loading logic here
+        pass
+
+    def load_dxf_laydown_data(self, filepath):
+        """Load DXF laydown data from a file."
+        # Implement loading logic here
         pass
