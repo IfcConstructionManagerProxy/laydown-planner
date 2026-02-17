@@ -1,0 +1,10 @@
+# Placement Optimization Parameters
+placement_optimization:
+  max_iterations: 100
+  convergence_threshold: 0.01
+
+# Export Settings
+export_settings:
+  format: "JSON"
+  output_directory: "./exports"
+  include_metadata: true
