@@ -1,0 +1,31 @@
+# Laydown Planner Configuration
+
+project:
+  name: My Project
+  description: This is a sample project for laydown planning.
+
+data_sources:
+  - type: data_source_1
+    path: path/to/data_source_1
+  - type: data_source_2
+    path: path/to/data_source_2
+
+zones:
+  - name: Zone A
+    coordinates:
+      - { lat: 34.1234, lon: -118.1234 }
+  - name: Zone B
+    coordinates:
+      - { lat: 34.5678, lon: -118.5678 }
+
+analysis_parameters:
+  max_distance: 100
+  min_area: 500
+
+visualization_settings:
+  show_grid: true
+  grid_color: '#ff0000'
+
+export_options:
+  format: pdf
+  include_metadata: true
