@@ -493,7 +493,7 @@ $SKPOLY
   9
 $TDCREATE
  40
-2461089.669409722
+2461089.7194097224
   9
 $TDUCREATE
  40
@@ -501,7 +501,7 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2461089.669409722
+2461089.7194097224
   9
 $TDUUPDATE
  40
@@ -933,11 +933,11 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{A71D0027-3322-48DC-9AF1-13E6BBA8359A}
+{DA5DF531-D8E7-4875-B2CC-03F36828A3C6}
   9
 $VERSIONGUID
   2
-{F3C17C13-FAFF-42B8-8C01-D0B4A3E745A3}
+{3CE82010-5E76-4AE1-91AA-7B7DABCC6A05}
   9
 $EXTNAMES
 290
@@ -2099,7 +2099,7 @@ AcDbPolyline
  20
 0.0
   0
-TEXT
+MTEXT
   5
 31
 330
@@ -2109,7 +2109,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 90.0
  20
@@ -2117,13 +2117,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AW 4000.0kg
- 72
-1
-100
-AcDbText
+Object AW\P4000.0kg
   0
 LWPOLYLINE
   5
@@ -2161,7 +2159,7 @@ AcDbPolyline
  20
 0.0
   0
-TEXT
+MTEXT
   5
 33
 330
@@ -2171,7 +2169,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 300.0
  20
@@ -2179,13 +2177,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AN 3100.0kg
- 72
-1
-100
-AcDbText
+Object AN\P3100.0kg
   0
 LWPOLYLINE
   5
@@ -2223,7 +2219,7 @@ AcDbPolyline
  20
 705.0
   0
-TEXT
+MTEXT
   5
 35
 330
@@ -2233,7 +2229,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 75.0
  20
@@ -2241,13 +2237,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AT 3700.0kg
- 72
-1
-100
-AcDbText
+Object AT\P3700.0kg
   0
 LWPOLYLINE
   5
@@ -2285,7 +2279,7 @@ AcDbPolyline
  20
 615.0
   0
-TEXT
+MTEXT
   5
 37
 330
@@ -2295,7 +2289,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 300.0
  20
@@ -2303,13 +2297,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AD 2100.0kg
- 72
-1
-100
-AcDbText
+Object AD\P2100.0kg
   0
 LWPOLYLINE
   5
@@ -2347,7 +2339,7 @@ AcDbPolyline
  20
 0.0
   0
-TEXT
+MTEXT
   5
 39
 330
@@ -2357,7 +2349,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 485.0
  20
@@ -2365,13 +2357,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AR 3500.0kg
- 72
-1
-100
-AcDbText
+Object AR\P3500.0kg
   0
 LWPOLYLINE
   5
@@ -2409,7 +2399,7 @@ AcDbPolyline
  20
 655.0
   0
-TEXT
+MTEXT
   5
 3B
 330
@@ -2419,7 +2409,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 485.0
  20
@@ -2427,13 +2417,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AH 2500.0kg
- 72
-1
-100
-AcDbText
+Object AH\P2500.0kg
   0
 LWPOLYLINE
   5
@@ -2471,7 +2459,7 @@ AcDbPolyline
  20
 1130.0
   0
-TEXT
+MTEXT
   5
 3D
 330
@@ -2481,7 +2469,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 260.0
  20
@@ -2489,13 +2477,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object B 350.0kg
- 72
-1
-100
-AcDbText
+Object B\P350.0kg
   0
 LWPOLYLINE
   5
@@ -2569,7 +2555,7 @@ AcDbPolyline
  20
 1405.0
   0
-TEXT
+MTEXT
   5
 40
 330
@@ -2579,7 +2565,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 80.0
  20
@@ -2587,13 +2573,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AK 2800.0kg
- 72
-1
-100
-AcDbText
+Object AK\P2800.0kg
   0
 LWPOLYLINE
   5
@@ -2631,7 +2615,7 @@ AcDbPolyline
  20
 1405.0
   0
-TEXT
+MTEXT
   5
 42
 330
@@ -2641,7 +2625,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 265.0
  20
@@ -2649,13 +2633,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AA 1800.0kg
- 72
-1
-100
-AcDbText
+Object AA\P1800.0kg
   0
 LWPOLYLINE
   5
@@ -2693,7 +2675,7 @@ AcDbPolyline
  20
 1990.0
   0
-TEXT
+MTEXT
   5
 44
 330
@@ -2703,7 +2685,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 90.0
  20
@@ -2711,13 +2693,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object S 990.0kg
- 72
-1
-100
-AcDbText
+Object S\P990.0kg
   0
 LWPOLYLINE
   5
@@ -2755,7 +2735,7 @@ AcDbPolyline
  20
 1405.0
   0
-TEXT
+MTEXT
   5
 46
 330
@@ -2765,7 +2745,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 470.0
  20
@@ -2773,13 +2753,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object K 1000.0kg
- 72
-1
-100
-AcDbText
+Object K\P1000.0kg
   0
 LWPOLYLINE
   5
@@ -2817,7 +2795,7 @@ AcDbPolyline
  20
 1990.0
   0
-TEXT
+MTEXT
   5
 48
 330
@@ -2827,7 +2805,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 260.0
  20
@@ -2835,13 +2813,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AF 2300.0kg
- 72
-1
-100
-AcDbText
+Object AF\P2300.0kg
   0
 LWPOLYLINE
   5
@@ -2879,7 +2855,7 @@ AcDbPolyline
  20
 1730.0
   0
-TEXT
+MTEXT
   5
 4A
 330
@@ -2889,7 +2865,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 435.0
  20
@@ -2897,13 +2873,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object X 1500.0kg
- 72
-1
-100
-AcDbText
+Object X\P1500.0kg
   0
 LWPOLYLINE
   5
@@ -2941,7 +2915,7 @@ AcDbPolyline
  20
 2395.0
   0
-TEXT
+MTEXT
   5
 4C
 330
@@ -2951,7 +2925,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 75.0
  20
@@ -2959,13 +2933,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object P 660.0kg
- 72
-1
-100
-AcDbText
+Object P\P660.0kg
   0
 LWPOLYLINE
   5
@@ -3003,7 +2975,7 @@ AcDbPolyline
  20
 2525.0
   0
-TEXT
+MTEXT
   5
 4E
 330
@@ -3013,7 +2985,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 345.0
  20
@@ -3021,13 +2993,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object I 400.0kg
- 72
-1
-100
-AcDbText
+Object I\P400.0kg
   0
 LWPOLYLINE
   5
@@ -3065,7 +3035,7 @@ AcDbPolyline
  20
 2185.0
   0
-TEXT
+MTEXT
   5
 50
 330
@@ -3075,7 +3045,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 450.0
  20
@@ -3083,13 +3053,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object G 800.0kg
- 72
-1
-100
-AcDbText
+Object G\P800.0kg
   0
 LWPOLYLINE
   5
@@ -3163,7 +3131,7 @@ AcDbPolyline
  20
 2810.0
   0
-TEXT
+MTEXT
   5
 53
 330
@@ -3173,7 +3141,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 55.0
  20
@@ -3181,13 +3149,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object V 1300.0kg
- 72
-1
-100
-AcDbText
+Object V\P1300.0kg
   0
 LWPOLYLINE
   5
@@ -3225,7 +3191,7 @@ AcDbPolyline
  20
 2810.0
   0
-TEXT
+MTEXT
   5
 55
 330
@@ -3235,7 +3201,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 195.0
  20
@@ -3243,13 +3209,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object M 330.0kg
- 72
-1
-100
-AcDbText
+Object M\P330.0kg
   0
 LWPOLYLINE
   5
@@ -3287,7 +3251,7 @@ AcDbPolyline
  20
 3245.0
   0
-TEXT
+MTEXT
   5
 57
 330
@@ -3297,7 +3261,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 50.0
  20
@@ -3305,13 +3269,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object A 300.0kg
- 72
-1
-100
-AcDbText
+Object A\P300.0kg
   0
 LWPOLYLINE
   5
@@ -3385,7 +3347,7 @@ AcDbPolyline
  20
 4215.0
   0
-TEXT
+MTEXT
   5
 5A
 330
@@ -3395,7 +3357,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 95.0
  20
@@ -3403,13 +3365,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AX 4100.0kg
- 72
-1
-100
-AcDbText
+Object AX\P4100.0kg
   0
 LWPOLYLINE
   5
@@ -3447,7 +3407,7 @@ AcDbPolyline
  20
 4215.0
   0
-TEXT
+MTEXT
   5
 5C
 330
@@ -3457,7 +3417,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 315.0
  20
@@ -3465,13 +3425,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AO 3200.0kg
- 72
-1
-100
-AcDbText
+Object AO\P3200.0kg
   0
 LWPOLYLINE
   5
@@ -3509,7 +3467,7 @@ AcDbPolyline
  20
 4930.0
   0
-TEXT
+MTEXT
   5
 5E
 330
@@ -3519,7 +3477,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 80.0
  20
@@ -3527,13 +3485,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AU 3800.0kg
- 72
-1
-100
-AcDbText
+Object AU\P3800.0kg
   0
 LWPOLYLINE
   5
@@ -3571,7 +3527,7 @@ AcDbPolyline
  20
 4840.0
   0
-TEXT
+MTEXT
   5
 60
 330
@@ -3581,7 +3537,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 315.0
  20
@@ -3589,13 +3545,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AE 2200.0kg
- 72
-1
-100
-AcDbText
+Object AE\P2200.0kg
   0
 LWPOLYLINE
   5
@@ -3633,7 +3587,7 @@ AcDbPolyline
  20
 4215.0
   0
-TEXT
+MTEXT
   5
 62
 330
@@ -3643,7 +3597,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 500.0
  20
@@ -3651,13 +3605,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AQ 3400.0kg
- 72
-1
-100
-AcDbText
+Object AQ\P3400.0kg
   0
 LWPOLYLINE
   5
@@ -3695,7 +3647,7 @@ AcDbPolyline
  20
 5365.0
   0
-TEXT
+MTEXT
   5
 64
 330
@@ -3705,7 +3657,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 385.0
  20
@@ -3713,13 +3665,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object O 550.0kg
- 72
-1
-100
-AcDbText
+Object O\P550.0kg
   0
 LWPOLYLINE
   5
@@ -3757,7 +3707,7 @@ AcDbPolyline
  20
 4860.0
   0
-TEXT
+MTEXT
   5
 66
 330
@@ -3767,7 +3717,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 495.0
  20
@@ -3775,13 +3725,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object L 220.0kg
- 72
-1
-100
-AcDbText
+Object L\P220.0kg
   0
 LWPOLYLINE
   5
@@ -3855,7 +3803,7 @@ AcDbPolyline
  20
 5620.0
   0
-TEXT
+MTEXT
   5
 69
 330
@@ -3865,7 +3813,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 85.0
  20
@@ -3873,13 +3821,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AL 2900.0kg
- 72
-1
-100
-AcDbText
+Object AL\P2900.0kg
   0
 LWPOLYLINE
   5
@@ -3917,7 +3863,7 @@ AcDbPolyline
  20
 5620.0
   0
-TEXT
+MTEXT
   5
 6B
 330
@@ -3927,7 +3873,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 295.0
  20
@@ -3935,13 +3881,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object U 1200.0kg
- 72
-1
-100
-AcDbText
+Object U\P1200.0kg
   0
 LWPOLYLINE
   5
@@ -3979,7 +3923,7 @@ AcDbPolyline
  20
 6215.0
   0
-TEXT
+MTEXT
   5
 6D
 330
@@ -3989,7 +3933,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 85.0
  20
@@ -3997,13 +3941,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AB 1900.0kg
- 72
-1
-100
-AcDbText
+Object AB\P1900.0kg
   0
 LWPOLYLINE
   5
@@ -4041,7 +3983,7 @@ AcDbPolyline
  20
 5620.0
   0
-TEXT
+MTEXT
   5
 6F
 330
@@ -4051,7 +3993,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 490.0
  20
@@ -4059,13 +4001,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AI 2600.0kg
- 72
-1
-100
-AcDbText
+Object AI\P2600.0kg
   0
 LWPOLYLINE
   5
@@ -4103,7 +4043,7 @@ AcDbPolyline
  20
 6045.0
   0
-TEXT
+MTEXT
   5
 71
 330
@@ -4113,7 +4053,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 280.0
  20
@@ -4121,13 +4061,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object R 880.0kg
- 72
-1
-100
-AcDbText
+Object R\P880.0kg
   0
 LWPOLYLINE
   5
@@ -4165,7 +4103,7 @@ AcDbPolyline
  20
 6710.0
   0
-TEXT
+MTEXT
   5
 73
 330
@@ -4175,7 +4113,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 220.0
  20
@@ -4183,13 +4121,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object Y 1600.0kg
- 72
-1
-100
-AcDbText
+Object Y\P1600.0kg
   0
 LWPOLYLINE
   5
@@ -4227,7 +4163,7 @@ AcDbPolyline
  20
 6440.0
   0
-TEXT
+MTEXT
   5
 75
 330
@@ -4237,7 +4173,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 330.0
  20
@@ -4245,13 +4181,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object H 400.0kg
- 72
-1
-100
-AcDbText
+Object H\P400.0kg
   0
 LWPOLYLINE
   5
@@ -4289,7 +4223,7 @@ AcDbPolyline
  20
 6185.0
   0
-TEXT
+MTEXT
   5
 77
 330
@@ -4299,7 +4233,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 485.0
  20
@@ -4307,13 +4241,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object D 500.0kg
- 72
-1
-100
-AcDbText
+Object D\P500.0kg
   0
 LWPOLYLINE
   5
@@ -4351,7 +4283,7 @@ AcDbPolyline
  20
 6875.0
   0
-TEXT
+MTEXT
   5
 79
 330
@@ -4361,7 +4293,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 110.0
  20
@@ -4369,13 +4301,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object C 400.0kg
- 72
-1
-100
-AcDbText
+Object C\P400.0kg
   0
 LWPOLYLINE
   5
@@ -4449,7 +4379,7 @@ AcDbPolyline
  20
 7025.0
   0
-TEXT
+MTEXT
   5
 7C
 330
@@ -4459,7 +4389,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 85.0
  20
@@ -4467,13 +4397,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AV 3900.0kg
- 72
-1
-100
-AcDbText
+Object AV\P3900.0kg
   0
 LWPOLYLINE
   5
@@ -4511,7 +4439,7 @@ AcDbPolyline
  20
 7025.0
   0
-TEXT
+MTEXT
   5
 7E
 330
@@ -4521,7 +4449,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 285.0
  20
@@ -4529,13 +4457,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AM 3000.0kg
- 72
-1
-100
-AcDbText
+Object AM\P3000.0kg
   0
 LWPOLYLINE
   5
@@ -4573,7 +4499,7 @@ AcDbPolyline
  20
 7720.0
   0
-TEXT
+MTEXT
   5
 80
 330
@@ -4583,7 +4509,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 70.0
  20
@@ -4591,13 +4517,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AS 3600.0kg
- 72
-1
-100
-AcDbText
+Object AS\P3600.0kg
   0
 LWPOLYLINE
   5
@@ -4635,7 +4559,7 @@ AcDbPolyline
  20
 7630.0
   0
-TEXT
+MTEXT
   5
 82
 330
@@ -4645,7 +4569,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 285.0
  20
@@ -4653,13 +4577,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AC 2000.0kg
- 72
-1
-100
-AcDbText
+Object AC\P2000.0kg
   0
 LWPOLYLINE
   5
@@ -4697,7 +4619,7 @@ AcDbPolyline
  20
 7025.0
   0
-TEXT
+MTEXT
   5
 84
 330
@@ -4707,7 +4629,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 475.0
  20
@@ -4715,13 +4637,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AJ 2700.0kg
- 72
-1
-100
-AcDbText
+Object AJ\P2700.0kg
   0
 LWPOLYLINE
   5
@@ -4759,7 +4679,7 @@ AcDbPolyline
  20
 7630.0
   0
-TEXT
+MTEXT
   5
 86
 330
@@ -4769,7 +4689,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 475.0
  20
@@ -4777,13 +4697,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object Z 1700.0kg
- 72
-1
-100
-AcDbText
+Object Z\P1700.0kg
   0
 LWPOLYLINE
   5
@@ -4821,7 +4739,7 @@ AcDbPolyline
  20
 8135.0
   0
-TEXT
+MTEXT
   5
 88
 330
@@ -4831,7 +4749,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 375.0
  20
@@ -4839,13 +4757,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object Q 770.0kg
- 72
-1
-100
-AcDbText
+Object Q\P770.0kg
   0
 LWPOLYLINE
   5
@@ -4919,7 +4835,7 @@ AcDbPolyline
  20
 8430.0
   0
-TEXT
+MTEXT
   5
 8B
 330
@@ -4929,7 +4845,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 95.0
  20
@@ -4937,13 +4853,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object T 1100.0kg
- 72
-1
-100
-AcDbText
+Object T\P1100.0kg
   0
 LWPOLYLINE
   5
@@ -4981,7 +4895,7 @@ AcDbPolyline
  20
 8430.0
   0
-TEXT
+MTEXT
   5
 8D
 330
@@ -4991,7 +4905,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 270.0
  20
@@ -4999,13 +4913,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AP 3300.0kg
- 72
-1
-100
-AcDbText
+Object AP\P3300.0kg
   0
 LWPOLYLINE
   5
@@ -5043,7 +4955,7 @@ AcDbPolyline
  20
 8845.0
   0
-TEXT
+MTEXT
   5
 8F
 330
@@ -5053,7 +4965,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 60.0
  20
@@ -5061,13 +4973,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object AG 2400.0kg
- 72
-1
-100
-AcDbText
+Object AG\P2400.0kg
   0
 LWPOLYLINE
   5
@@ -5105,7 +5015,7 @@ AcDbPolyline
  20
 8430.0
   0
-TEXT
+MTEXT
   5
 91
 330
@@ -5115,7 +5025,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 445.0
  20
@@ -5123,13 +5033,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object J 900.0kg
- 72
-1
-100
-AcDbText
+Object J\P900.0kg
   0
 LWPOLYLINE
   5
@@ -5167,7 +5075,7 @@ AcDbPolyline
  20
 9065.0
   0
-TEXT
+MTEXT
   5
 93
 330
@@ -5177,7 +5085,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 275.0
  20
@@ -5185,13 +5093,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object W 1400.0kg
- 72
-1
-100
-AcDbText
+Object W\P1400.0kg
   0
 LWPOLYLINE
   5
@@ -5229,7 +5135,7 @@ AcDbPolyline
  20
 9390.0
   0
-TEXT
+MTEXT
   5
 95
 330
@@ -5239,7 +5145,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 65.0
  20
@@ -5247,13 +5153,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object N 440.0kg
- 72
-1
-100
-AcDbText
+Object N\P440.0kg
   0
 LWPOLYLINE
   5
@@ -5291,7 +5195,7 @@ AcDbPolyline
  20
 8745.0
   0
-TEXT
+MTEXT
   5
 97
 330
@@ -5301,7 +5205,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 425.0
  20
@@ -5309,13 +5213,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object F 700.0kg
- 72
-1
-100
-AcDbText
+Object F\P700.0kg
   0
 LWPOLYLINE
   5
@@ -5353,7 +5255,7 @@ AcDbPolyline
  20
 9065.0
   0
-TEXT
+MTEXT
   5
 99
 330
@@ -5363,7 +5265,7 @@ AcDbEntity
   8
 0
 100
-AcDbText
+AcDbMText
  10
 430.0
  20
@@ -5371,13 +5273,11 @@ AcDbText
  30
 0.0
  40
-1.0
+2.0
+ 71
+5
   1
-Object E 600.0kg
- 72
-1
-100
-AcDbText
+Object E\P600.0kg
   0
 ENDSEC
   0
@@ -6381,7 +6281,7 @@ DictionaryVariables
 280
 0
   1
-1.4.3 @ 2026-02-17T20:03:57.460099+00:00
+1.4.3 @ 2026-02-17T21:15:57.096190+00:00
   0
 DICTIONARYVAR
   5
@@ -6393,7 +6293,7 @@ DictionaryVariables
 280
 0
   1
-1.4.3 @ 2026-02-17T20:03:57.463665+00:00
+1.4.3 @ 2026-02-17T21:15:57.106972+00:00
   0
 ENDSEC
   0
