@@ -1,5 +1,38 @@
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
+from shapely.geometry import Polygon
+
+
+def plot_laydown_zone(zone: Polygon, placements: list, title="Laydown Plan"):
+    """
+    Plot an irregular polygon zone with placed object footprints.
+
+    Args:
+        zone: Shapely Polygon (the laydown perimeter).
+        placements: list of dicts from PlacementOptimizer.place_objects().
+        title: chart title.
+    """
+    fig, ax = plt.subplots(figsize=(12, 10))
+
+    zx, zy = zone.exterior.xy
+    ax.fill(zx, zy, alpha=0.1, fc='green', ec='black', linewidth=2, label='Zone')
+
+    colors = plt.cm.tab20.colors
+    for i, p in enumerate(placements):
+        fp = p['object'].get_footprint(p['x'], p['y'], p['rotation'])
+        fx, fy = fp.exterior.xy
+        color = colors[i % len(colors)]
+        ax.fill(fx, fy, alpha=0.6, fc=color, ec='black', linewidth=0.8)
+        cx, cy = fp.centroid.x, fp.centroid.y
+        ax.text(cx, cy, p['object'].name, ha='center', va='center', fontsize=7)
+
+    ax.set_aspect('equal')
+    ax.set_title(title)
+    ax.set_xlabel('Easting (m)')
+    ax.set_ylabel('Northing (m)')
+    ax.grid(True, alpha=0.3)
+    plt.tight_layout()
+    plt.show()
 
 
 def plot_laydown(data, labels):

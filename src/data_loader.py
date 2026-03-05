@@ -1,3 +1,6 @@
+from src.laydown_map import LaydownMap
+
+
 class DataLoader:
     def __init__(self, data_dir=None):
         """Initialize DataLoader with optional data directory."""
@@ -14,6 +17,5 @@ class DataLoader:
         pass
 
     def load_dxf_laydown_data(self, filepath):
-        """Load DXF laydown data from a file."""
-        # Implement loading logic here
-        pass
+        """Load DXF laydown data from a file and return a LaydownMap."""
+        return LaydownMap(filepath)
