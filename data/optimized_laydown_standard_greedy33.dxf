@@ -1,0 +1,18192 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1027
+  9
+$ACADMAINTVER
+ 70
+105
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$LASTSAVEDBY
+  1
+ezdxf
+  9
+$REQUIREDVERSIONS
+160
+0
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$EXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+0
+  9
+$REGENMODE
+ 70
+1
+  9
+$FILLMODE
+ 70
+1
+  9
+$QTEXTMODE
+ 70
+0
+  9
+$MIRRTEXT
+ 70
+1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+0
+  9
+$DIMLIM
+ 70
+0
+  9
+$DIMTIH
+ 70
+0
+  9
+$DIMTOH
+ 70
+0
+  9
+$DIMSE1
+ 70
+0
+  9
+$DIMSE2
+ 70
+0
+  9
+$DIMTAD
+ 70
+1
+  9
+$DIMZIN
+ 70
+8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+1
+  9
+$DIMSHO
+ 70
+1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+0
+  9
+$DIMALTD
+ 70
+3
+  9
+$DIMALTF
+ 40
+0.03937007874
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+0
+  9
+$DIMSOXD
+ 70
+0
+  9
+$DIMSAH
+ 70
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+0
+  9
+$DIMCLRE
+ 70
+0
+  9
+$DIMCLRT
+ 70
+0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+0
+  9
+$DIMSD1
+ 70
+0
+  9
+$DIMSD2
+ 70
+0
+  9
+$DIMTOLJ
+ 70
+0
+  9
+$DIMTZIN
+ 70
+8
+  9
+$DIMALTZ
+ 70
+0
+  9
+$DIMALTTZ
+ 70
+0
+  9
+$DIMUPT
+ 70
+0
+  9
+$DIMDEC
+ 70
+2
+  9
+$DIMTDEC
+ 70
+2
+  9
+$DIMALTU
+ 70
+2
+  9
+$DIMALTTD
+ 70
+3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+0
+  9
+$DIMADEC
+ 70
+0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+0
+  9
+$DIMDSEP
+ 70
+44
+  9
+$DIMATFIT
+ 70
+3
+  9
+$DIMFRAC
+ 70
+0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+2
+  9
+$DIMLWD
+ 70
+-2
+  9
+$DIMLWE
+ 70
+-2
+  9
+$DIMTMOVE
+ 70
+0
+  9
+$DIMFXL
+ 40
+1.0
+  9
+$DIMFXLON
+ 70
+0
+  9
+$DIMJOGANG
+ 40
+0.785398163397
+  9
+$DIMTFILL
+ 70
+0
+  9
+$DIMTFILLCLR
+ 70
+0
+  9
+$DIMARCSYM
+ 70
+0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$DIMTXTDIRECTION
+ 70
+0
+  9
+$LUNITS
+ 70
+2
+  9
+$LUPREC
+ 70
+4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+0
+  9
+$AUPREC
+ 70
+2
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+0
+  9
+$TDCREATE
+ 40
+2461092.7758101854
+  9
+$TDUCREATE
+ 40
+2458532.153996898
+  9
+$TDUPDATE
+ 40
+2461092.7758101854
+  9
+$TDUUPDATE
+ 40
+2458532.1544311
+  9
+$TDINDWG
+ 40
+0.0
+  9
+$TDUSRTIMER
+ 40
+0.0
+  9
+$USRTIMER
+ 70
+1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+0
+  9
+$PDMODE
+ 70
+0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+0
+  9
+$SPLINETYPE
+ 70
+6
+  9
+$SPLINESEGS
+ 70
+8
+  9
+$HANDSEED
+  5
+22A
+  9
+$SURFTAB1
+ 70
+6
+  9
+$SURFTAB2
+ 70
+6
+  9
+$SURFTYPE
+ 70
+6
+  9
+$SURFU
+ 70
+6
+  9
+$SURFV
+ 70
+6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+0
+  9
+$USERI2
+ 70
+0
+  9
+$USERI3
+ 70
+0
+  9
+$USERI4
+ 70
+0
+  9
+$USERI5
+ 70
+0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+1
+  9
+$SHADEDGE
+ 70
+3
+  9
+$SHADEDIF
+ 70
+70
+  9
+$TILEMODE
+ 70
+1
+  9
+$MAXACTVP
+ 70
+64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+0
+  9
+$PEXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$PEXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+0
+  9
+$VISRETAIN
+ 70
+1
+  9
+$PLINEGEN
+ 70
+0
+  9
+$PSLTSCALE
+ 70
+1
+  9
+$TREEDEPTH
+ 70
+3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+1
+  9
+$MEASUREMENT
+ 70
+1
+  9
+$CELWEIGHT
+370
+-1
+  9
+$ENDCAPS
+280
+0
+  9
+$JOINSTYLE
+280
+0
+  9
+$LWDISPLAY
+290
+0
+  9
+$INSUNITS
+ 70
+6
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+1
+  9
+$CEPSNTYPE
+380
+0
+  9
+$PSTYLEMODE
+290
+1
+  9
+$FINGERPRINTGUID
+  2
+{5E38611E-9DD9-4A65-8675-B44FEDAB4E57}
+  9
+$VERSIONGUID
+  2
+{78E701A1-302A-418B-A7D9-952C1FF697DE}
+  9
+$EXTNAMES
+290
+1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+0
+  9
+$SORTENTS
+280
+127
+  9
+$INDEXCTL
+280
+0
+  9
+$HIDETEXT
+280
+1
+  9
+$XCLIPFRAME
+280
+1
+  9
+$HALOGAP
+280
+0
+  9
+$OBSCOLOR
+ 70
+257
+  9
+$OBSLTYPE
+280
+0
+  9
+$INTERSECTIONDISPLAY
+280
+0
+  9
+$INTERSECTIONCOLOR
+ 70
+257
+  9
+$DIMASSOC
+280
+2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+24.0
+  9
+$STEPSIZE
+ 40
+100.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.005
+  9
+$PSOLHEIGHT
+ 40
+0.08
+  9
+$LOFTANG1
+ 40
+1.570796326795
+  9
+$LOFTANG2
+ 40
+1.570796326795
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+7
+  9
+$LOFTNORMALS
+280
+1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+-8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+1
+  9
+$TILEMODELIGHTSYNCH
+280
+1
+  9
+$CMATERIAL
+347
+20
+  9
+$SOLIDHIST
+280
+0
+  9
+$SHOWHIST
+280
+1
+  9
+$DWFFRAME
+280
+2
+  9
+$DGNFRAME
+280
+2
+  9
+$REALWORLDSCALE
+290
+1
+  9
+$INTERFERECOLOR
+ 62
+256
+  9
+$CSHADOW
+280
+0
+  9
+$SHADOWPLANELOCATION
+ 40
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SCENEOE
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+1152
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MENTALRAYRENDERSETTINGS
+  2
+AcDbMentalRayRenderSettings
+  3
+SCENEOE
+ 90
+1024
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBSECTIONVIEWSTYLE
+  2
+AcDbSectionViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+VPORT
+  5
+23
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+1000.0
+ 41
+1.34
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+0
+ 72
+1000
+ 73
+1
+ 74
+3
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+281
+0
+ 65
+0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+3
+  0
+LTYPE
+  5
+24
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+25
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+26
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+2
+  0
+LAYER
+  5
+27
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+-3
+390
+13
+347
+21
+  0
+LAYER
+  5
+28
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Defpoints
+ 70
+0
+ 62
+7
+  6
+Continuous
+290
+0
+370
+-3
+390
+13
+347
+21
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+STYLE
+  5
+29
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+3
+  0
+APPID
+  5
+2A
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+0
+  0
+APPID
+  5
+227
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+HATCHBACKGROUNDCOLOR
+ 70
+0
+  0
+APPID
+  5
+228
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+EZDXF
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+4
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+100
+AcDbDimStyleTable
+  0
+DIMSTYLE
+105
+2B
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+1.0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+2.5
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+1.0
+145
+0.0
+146
+1.0
+147
+0.625
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+8
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+44
+279
+0
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+0
+289
+3
+290
+0
+371
+-2
+372
+-2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+2
+  0
+BLOCK_RECORD
+  5
+17
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+1A
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+1B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+ 70
+0
+280
+1
+281
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+18
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+19
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+2F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+0.0
+ 10
+650.0
+ 20
+0.0
+ 10
+650.0
+ 20
+1250.0
+ 10
+0.0
+ 20
+1250.0
+ 10
+0.0
+ 20
+0.0
+  0
+LWPOLYLINE
+  5
+30
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+0.0
+ 10
+134.0
+ 20
+0.0
+ 10
+134.0
+ 20
+267.0
+ 10
+0.0
+ 20
+267.0
+ 10
+0.0
+ 20
+0.0
+  0
+MTEXT
+  5
+31
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+67.0
+ 20
+133.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+32
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+149.0
+ 20
+0.0
+ 10
+281.0
+ 20
+0.0
+ 10
+281.0
+ 20
+263.0
+ 10
+149.0
+ 20
+263.0
+ 10
+149.0
+ 20
+0.0
+  0
+MTEXT
+  5
+33
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+215.0
+ 20
+131.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+34
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+282.0
+ 10
+130.0
+ 20
+282.0
+ 10
+130.0
+ 20
+542.0
+ 10
+0.0
+ 20
+542.0
+ 10
+0.0
+ 20
+282.0
+  0
+MTEXT
+  5
+35
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+65.0
+ 20
+412.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+36
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+296.0
+ 20
+0.0
+ 10
+424.0
+ 20
+0.0
+ 10
+424.0
+ 20
+255.0
+ 10
+296.0
+ 20
+255.0
+ 10
+296.0
+ 20
+0.0
+  0
+MTEXT
+  5
+37
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+360.0
+ 20
+127.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+38
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+149.0
+ 20
+278.0
+ 10
+276.0
+ 20
+278.0
+ 10
+276.0
+ 20
+531.0
+ 10
+149.0
+ 20
+531.0
+ 10
+149.0
+ 20
+278.0
+  0
+MTEXT
+  5
+39
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+212.5
+ 20
+404.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+3A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+557.0
+ 10
+126.0
+ 20
+557.0
+ 10
+126.0
+ 20
+809.0
+ 10
+0.0
+ 20
+809.0
+ 10
+0.0
+ 20
+557.0
+  0
+MTEXT
+  5
+3B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+63.0
+ 20
+683.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+3C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+439.0
+ 20
+0.0
+ 10
+563.0
+ 20
+0.0
+ 10
+563.0
+ 20
+248.0
+ 10
+439.0
+ 20
+248.0
+ 10
+439.0
+ 20
+0.0
+  0
+MTEXT
+  5
+3D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+501.0
+ 20
+124.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+3E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+296.0
+ 20
+270.0
+ 10
+419.0
+ 20
+270.0
+ 10
+419.0
+ 20
+516.0
+ 10
+296.0
+ 20
+516.0
+ 10
+296.0
+ 20
+270.0
+  0
+MTEXT
+  5
+3F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+357.5
+ 20
+393.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+40
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+149.0
+ 20
+546.0
+ 10
+272.0
+ 20
+546.0
+ 10
+272.0
+ 20
+791.0
+ 10
+149.0
+ 20
+791.0
+ 10
+149.0
+ 20
+546.0
+  0
+MTEXT
+  5
+41
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+210.5
+ 20
+668.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+42
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+824.0
+ 10
+120.0
+ 20
+824.0
+ 10
+120.0
+ 20
+1065.0
+ 10
+0.0
+ 20
+1065.0
+ 10
+0.0
+ 20
+824.0
+  0
+MTEXT
+  5
+43
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+60.0
+ 20
+944.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+44
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+439.0
+ 20
+263.0
+ 10
+557.0
+ 20
+263.0
+ 10
+557.0
+ 20
+499.0
+ 10
+439.0
+ 20
+499.0
+ 10
+439.0
+ 20
+263.0
+  0
+MTEXT
+  5
+45
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+498.0
+ 20
+381.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+46
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+296.0
+ 20
+531.0
+ 10
+413.0
+ 20
+531.0
+ 10
+413.0
+ 20
+764.0
+ 10
+296.0
+ 20
+764.0
+ 10
+296.0
+ 20
+531.0
+  0
+MTEXT
+  5
+47
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+354.5
+ 20
+647.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+48
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+149.0
+ 20
+806.0
+ 10
+263.0
+ 20
+806.0
+ 10
+263.0
+ 20
+1034.0
+ 10
+149.0
+ 20
+1034.0
+ 10
+149.0
+ 20
+806.0
+  0
+MTEXT
+  5
+49
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+206.0
+ 20
+920.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+4A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+1080.0
+ 10
+222.0
+ 20
+1080.0
+ 10
+222.0
+ 20
+1191.0
+ 10
+0.0
+ 20
+1191.0
+ 10
+0.0
+ 20
+1080.0
+  0
+MTEXT
+  5
+4B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+111.0
+ 20
+1135.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Sheet\P20.0kg\PWood
+  0
+LWPOLYLINE
+  5
+4C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+439.0
+ 20
+514.0
+ 10
+549.0
+ 20
+514.0
+ 10
+549.0
+ 20
+734.0
+ 10
+439.0
+ 20
+734.0
+ 10
+439.0
+ 20
+514.0
+  0
+MTEXT
+  5
+4D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+494.0
+ 20
+624.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+4E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+296.0
+ 20
+779.0
+ 10
+405.0
+ 20
+779.0
+ 10
+405.0
+ 20
+996.0
+ 10
+296.0
+ 20
+996.0
+ 10
+296.0
+ 20
+779.0
+  0
+MTEXT
+  5
+4F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+350.5
+ 20
+887.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+50
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+237.0
+ 20
+1080.0
+ 10
+453.0
+ 20
+1080.0
+ 10
+453.0
+ 20
+1188.0
+ 10
+237.0
+ 20
+1188.0
+ 10
+237.0
+ 20
+1080.0
+  0
+MTEXT
+  5
+51
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+345.0
+ 20
+1134.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+52
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+439.0
+ 20
+749.0
+ 10
+545.0
+ 20
+749.0
+ 10
+545.0
+ 20
+962.0
+ 10
+439.0
+ 20
+962.0
+ 10
+439.0
+ 20
+749.0
+  0
+MTEXT
+  5
+53
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+492.0
+ 20
+855.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+54
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+578.0
+ 20
+0.0
+ 10
+611.0
+ 20
+0.0
+ 10
+611.0
+ 20
+440.0
+ 10
+578.0
+ 20
+440.0
+ 10
+578.0
+ 20
+0.0
+  0
+MTEXT
+  5
+55
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+594.5
+ 20
+220.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+56
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+564.0
+ 20
+514.0
+ 10
+596.0
+ 20
+514.0
+ 10
+596.0
+ 20
+945.0
+ 10
+564.0
+ 20
+945.0
+ 10
+564.0
+ 20
+514.0
+  0
+MTEXT
+  5
+57
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+580.0
+ 20
+729.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+58
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+237.0
+ 20
+1203.0
+ 10
+632.0
+ 20
+1203.0
+ 10
+632.0
+ 20
+1233.0
+ 10
+237.0
+ 20
+1233.0
+ 10
+237.0
+ 20
+1203.0
+  0
+MTEXT
+  5
+59
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+434.5
+ 20
+1218.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+5A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+611.0
+ 20
+514.0
+ 10
+632.0
+ 20
+514.0
+ 10
+632.0
+ 20
+942.0
+ 10
+611.0
+ 20
+942.0
+ 10
+611.0
+ 20
+514.0
+  0
+MTEXT
+  5
+5B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+621.5
+ 20
+728.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+5C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+296.0
+ 20
+1011.0
+ 10
+625.0
+ 20
+1011.0
+ 10
+625.0
+ 20
+1038.0
+ 10
+296.0
+ 20
+1038.0
+ 10
+296.0
+ 20
+1011.0
+  0
+MTEXT
+  5
+5D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+460.5
+ 20
+1024.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+5E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+468.0
+ 20
+1080.0
+ 10
+599.0
+ 20
+1080.0
+ 10
+599.0
+ 20
+1146.0
+ 10
+468.0
+ 20
+1146.0
+ 10
+468.0
+ 20
+1080.0
+  0
+MTEXT
+  5
+5F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+533.5
+ 20
+1113.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+60
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+468.5
+ 20
+1080.5
+ 10
+599.5
+ 20
+1080.5
+ 10
+599.5
+ 20
+1146.5
+ 10
+468.5
+ 20
+1146.5
+ 10
+468.5
+ 20
+1080.5
+  0
+MTEXT
+  5
+61
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+534.0
+ 20
+1113.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+62
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+469.0
+ 20
+1081.0
+ 10
+600.0
+ 20
+1081.0
+ 10
+600.0
+ 20
+1147.0
+ 10
+469.0
+ 20
+1147.0
+ 10
+469.0
+ 20
+1081.0
+  0
+MTEXT
+  5
+63
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+534.5
+ 20
+1114.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+64
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+1206.0
+ 10
+219.0
+ 20
+1206.0
+ 10
+219.0
+ 20
+1222.0
+ 10
+0.0
+ 20
+1222.0
+ 10
+0.0
+ 20
+1206.0
+  0
+MTEXT
+  5
+65
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+109.5
+ 20
+1214.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+66
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+439.0
+ 20
+977.0
+ 10
+631.0
+ 20
+977.0
+ 10
+631.0
+ 20
+991.0
+ 10
+439.0
+ 20
+991.0
+ 10
+439.0
+ 20
+977.0
+  0
+MTEXT
+  5
+67
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+535.0
+ 20
+984.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+68
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+468.0
+ 20
+1161.0
+ 10
+559.0
+ 20
+1161.0
+ 10
+559.0
+ 20
+1188.0
+ 10
+468.0
+ 20
+1188.0
+ 10
+468.0
+ 20
+1161.0
+  0
+MTEXT
+  5
+69
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+513.5
+ 20
+1174.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+6A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+578.0
+ 20
+455.0
+ 10
+635.0
+ 20
+455.0
+ 10
+635.0
+ 20
+493.0
+ 10
+578.0
+ 20
+493.0
+ 10
+578.0
+ 20
+455.0
+  0
+MTEXT
+  5
+6B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+606.5
+ 20
+474.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+6C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+578.5
+ 20
+455.5
+ 10
+635.5
+ 20
+455.5
+ 10
+635.5
+ 20
+493.5
+ 10
+578.5
+ 20
+493.5
+ 10
+578.5
+ 20
+455.5
+  0
+MTEXT
+  5
+6D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+607.0
+ 20
+474.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+6E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+1400.0
+ 10
+650.0
+ 20
+1400.0
+ 10
+650.0
+ 20
+2650.0
+ 10
+0.0
+ 20
+2650.0
+ 10
+0.0
+ 20
+1400.0
+  0
+LWPOLYLINE
+  5
+6F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+1400.0
+ 10
+104.0
+ 20
+1400.0
+ 10
+104.0
+ 20
+1609.0
+ 10
+0.0
+ 20
+1609.0
+ 10
+0.0
+ 20
+1400.0
+  0
+MTEXT
+  5
+70
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+52.0
+ 20
+1504.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+71
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+119.0
+ 20
+1400.0
+ 10
+223.0
+ 20
+1400.0
+ 10
+223.0
+ 20
+1607.0
+ 10
+119.0
+ 20
+1607.0
+ 10
+119.0
+ 20
+1400.0
+  0
+MTEXT
+  5
+72
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+171.0
+ 20
+1503.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+73
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+1624.0
+ 10
+102.0
+ 20
+1624.0
+ 10
+102.0
+ 20
+1827.0
+ 10
+0.0
+ 20
+1827.0
+ 10
+0.0
+ 20
+1624.0
+  0
+MTEXT
+  5
+74
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+51.0
+ 20
+1725.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+75
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+238.0
+ 20
+1400.0
+ 10
+339.0
+ 20
+1400.0
+ 10
+339.0
+ 20
+1602.0
+ 10
+238.0
+ 20
+1602.0
+ 10
+238.0
+ 20
+1400.0
+  0
+MTEXT
+  5
+76
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+288.5
+ 20
+1501.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+77
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+119.0
+ 20
+1622.0
+ 10
+215.0
+ 20
+1622.0
+ 10
+215.0
+ 20
+1814.0
+ 10
+119.0
+ 20
+1814.0
+ 10
+119.0
+ 20
+1622.0
+  0
+MTEXT
+  5
+78
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+167.0
+ 20
+1718.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+79
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+1842.0
+ 10
+95.0
+ 20
+1842.0
+ 10
+95.0
+ 20
+2031.0
+ 10
+0.0
+ 20
+2031.0
+ 10
+0.0
+ 20
+1842.0
+  0
+MTEXT
+  5
+7A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+47.5
+ 20
+1936.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+7B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+354.0
+ 20
+1400.0
+ 10
+448.0
+ 20
+1400.0
+ 10
+448.0
+ 20
+1589.0
+ 10
+354.0
+ 20
+1589.0
+ 10
+354.0
+ 20
+1400.0
+  0
+MTEXT
+  5
+7C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+401.0
+ 20
+1494.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+7D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+238.0
+ 20
+1617.0
+ 10
+331.0
+ 20
+1617.0
+ 10
+331.0
+ 20
+1803.0
+ 10
+238.0
+ 20
+1803.0
+ 10
+238.0
+ 20
+1617.0
+  0
+MTEXT
+  5
+7E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+284.5
+ 20
+1710.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+7F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+119.0
+ 20
+1829.0
+ 10
+209.0
+ 20
+1829.0
+ 10
+209.0
+ 20
+2009.0
+ 10
+119.0
+ 20
+2009.0
+ 10
+119.0
+ 20
+1829.0
+  0
+MTEXT
+  5
+80
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+164.0
+ 20
+1919.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Sheet\P8.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+81
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+2046.0
+ 10
+32.0
+ 20
+2046.0
+ 10
+32.0
+ 20
+2476.0
+ 10
+0.0
+ 20
+2476.0
+ 10
+0.0
+ 20
+2046.0
+  0
+MTEXT
+  5
+82
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+16.0
+ 20
+2261.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+83
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.5
+ 20
+2046.5
+ 10
+32.5
+ 20
+2046.5
+ 10
+32.5
+ 20
+2476.5
+ 10
+0.5
+ 20
+2476.5
+ 10
+0.5
+ 20
+2046.5
+  0
+MTEXT
+  5
+84
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+16.5
+ 20
+2261.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+85
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+463.0
+ 20
+1400.0
+ 10
+495.0
+ 20
+1400.0
+ 10
+495.0
+ 20
+1826.0
+ 10
+463.0
+ 20
+1826.0
+ 10
+463.0
+ 20
+1400.0
+  0
+MTEXT
+  5
+86
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+479.0
+ 20
+1613.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+87
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+354.0
+ 20
+1604.0
+ 10
+386.0
+ 20
+1604.0
+ 10
+386.0
+ 20
+2024.0
+ 10
+354.0
+ 20
+2024.0
+ 10
+354.0
+ 20
+1604.0
+  0
+MTEXT
+  5
+88
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+370.0
+ 20
+1814.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+89
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+238.0
+ 20
+1818.0
+ 10
+269.0
+ 20
+1818.0
+ 10
+269.0
+ 20
+2236.0
+ 10
+238.0
+ 20
+2236.0
+ 10
+238.0
+ 20
+1818.0
+  0
+MTEXT
+  5
+8A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+253.5
+ 20
+2027.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+8B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+119.0
+ 20
+2024.0
+ 10
+149.0
+ 20
+2024.0
+ 10
+149.0
+ 20
+2429.0
+ 10
+119.0
+ 20
+2429.0
+ 10
+119.0
+ 20
+2024.0
+  0
+MTEXT
+  5
+8C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+134.0
+ 20
+2226.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+8D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+47.0
+ 20
+2046.0
+ 10
+77.0
+ 20
+2046.0
+ 10
+77.0
+ 20
+2449.0
+ 10
+47.0
+ 20
+2449.0
+ 10
+47.0
+ 20
+2046.0
+  0
+MTEXT
+  5
+8E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+62.0
+ 20
+2247.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+8F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+2491.0
+ 10
+388.0
+ 20
+2491.0
+ 10
+388.0
+ 20
+2520.0
+ 10
+0.0
+ 20
+2520.0
+ 10
+0.0
+ 20
+2491.0
+  0
+MTEXT
+  5
+90
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+194.0
+ 20
+2505.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+91
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+510.0
+ 20
+1400.0
+ 10
+539.0
+ 20
+1400.0
+ 10
+539.0
+ 20
+1785.0
+ 10
+510.0
+ 20
+1785.0
+ 10
+510.0
+ 20
+1400.0
+  0
+MTEXT
+  5
+92
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+524.5
+ 20
+1592.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+93
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+463.0
+ 20
+1841.0
+ 10
+491.0
+ 20
+1841.0
+ 10
+491.0
+ 20
+2211.0
+ 10
+463.0
+ 20
+2211.0
+ 10
+463.0
+ 20
+1841.0
+  0
+MTEXT
+  5
+94
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+477.0
+ 20
+2026.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+95
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+401.0
+ 20
+1604.0
+ 10
+428.0
+ 20
+1604.0
+ 10
+428.0
+ 20
+1967.0
+ 10
+401.0
+ 20
+1967.0
+ 10
+401.0
+ 20
+1604.0
+  0
+MTEXT
+  5
+96
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+414.5
+ 20
+1785.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Beam\P45.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+97
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+354.0
+ 20
+2039.0
+ 10
+381.0
+ 20
+2039.0
+ 10
+381.0
+ 20
+2363.0
+ 10
+354.0
+ 20
+2363.0
+ 10
+354.0
+ 20
+2039.0
+  0
+MTEXT
+  5
+98
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+367.5
+ 20
+2201.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+99
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+238.0
+ 20
+2251.0
+ 10
+303.0
+ 20
+2251.0
+ 10
+303.0
+ 20
+2382.0
+ 10
+238.0
+ 20
+2382.0
+ 10
+238.0
+ 20
+2251.0
+  0
+MTEXT
+  5
+9A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+270.5
+ 20
+2316.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood
+  0
+LWPOLYLINE
+  5
+9B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+403.0
+ 20
+2491.0
+ 10
+468.0
+ 20
+2491.0
+ 10
+468.0
+ 20
+2622.0
+ 10
+403.0
+ 20
+2622.0
+ 10
+403.0
+ 20
+2491.0
+  0
+MTEXT
+  5
+9C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+435.5
+ 20
+2556.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+9D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+2535.0
+ 10
+130.0
+ 20
+2535.0
+ 10
+130.0
+ 20
+2600.0
+ 10
+0.0
+ 20
+2600.0
+ 10
+0.0
+ 20
+2535.0
+  0
+MTEXT
+  5
+9E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+65.0
+ 20
+2567.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+9F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+554.0
+ 20
+1400.0
+ 10
+619.0
+ 20
+1400.0
+ 10
+619.0
+ 20
+1529.0
+ 10
+554.0
+ 20
+1529.0
+ 10
+554.0
+ 20
+1400.0
+  0
+MTEXT
+  5
+A0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+586.5
+ 20
+1464.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood
+  0
+LWPOLYLINE
+  5
+A1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+510.0
+ 20
+1800.0
+ 10
+574.0
+ 20
+1800.0
+ 10
+574.0
+ 20
+1928.0
+ 10
+510.0
+ 20
+1928.0
+ 10
+510.0
+ 20
+1800.0
+  0
+MTEXT
+  5
+A2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+542.0
+ 20
+1864.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood
+  0
+LWPOLYLINE
+  5
+A3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+284.0
+ 20
+1818.0
+ 10
+304.0
+ 20
+1818.0
+ 10
+304.0
+ 20
+2225.0
+ 10
+284.0
+ 20
+2225.0
+ 10
+284.0
+ 20
+1818.0
+  0
+MTEXT
+  5
+A4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+294.0
+ 20
+2021.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+A5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+463.0
+ 20
+2226.0
+ 10
+527.0
+ 20
+2226.0
+ 10
+527.0
+ 20
+2353.0
+ 10
+463.0
+ 20
+2353.0
+ 10
+463.0
+ 20
+2226.0
+  0
+MTEXT
+  5
+A6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+495.0
+ 20
+2289.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+A7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+463.5
+ 20
+2226.5
+ 10
+527.5
+ 20
+2226.5
+ 10
+527.5
+ 20
+2353.5
+ 10
+463.5
+ 20
+2353.5
+ 10
+463.5
+ 20
+2226.5
+  0
+MTEXT
+  5
+A8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+495.5
+ 20
+2290.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+A9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+164.0
+ 20
+2024.0
+ 10
+190.0
+ 20
+2024.0
+ 10
+190.0
+ 20
+2336.0
+ 10
+164.0
+ 20
+2336.0
+ 10
+164.0
+ 20
+2024.0
+  0
+MTEXT
+  5
+AA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+177.0
+ 20
+2180.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+AB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+164.5
+ 20
+2024.5
+ 10
+190.5
+ 20
+2024.5
+ 10
+190.5
+ 20
+2336.5
+ 10
+164.5
+ 20
+2336.5
+ 10
+164.5
+ 20
+2024.5
+  0
+MTEXT
+  5
+AC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+177.5
+ 20
+2180.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+AD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+119.0
+ 20
+2444.0
+ 10
+524.0
+ 20
+2444.0
+ 10
+524.0
+ 20
+2464.0
+ 10
+119.0
+ 20
+2464.0
+ 10
+119.0
+ 20
+2444.0
+  0
+MTEXT
+  5
+AE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+321.5
+ 20
+2454.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+AF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+401.0
+ 20
+1982.0
+ 10
+421.0
+ 20
+1982.0
+ 10
+421.0
+ 20
+2386.0
+ 10
+401.0
+ 20
+2386.0
+ 10
+401.0
+ 20
+1982.0
+  0
+MTEXT
+  5
+B0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+411.0
+ 20
+2184.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+B1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+483.0
+ 20
+2491.0
+ 10
+546.0
+ 20
+2491.0
+ 10
+546.0
+ 20
+2618.0
+ 10
+483.0
+ 20
+2618.0
+ 10
+483.0
+ 20
+2491.0
+  0
+MTEXT
+  5
+B2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+514.5
+ 20
+2554.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+B3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+145.0
+ 20
+2535.0
+ 10
+271.0
+ 20
+2535.0
+ 10
+271.0
+ 20
+2598.0
+ 10
+145.0
+ 20
+2598.0
+ 10
+145.0
+ 20
+2535.0
+  0
+MTEXT
+  5
+B4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+208.0
+ 20
+2566.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+B5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+145.5
+ 20
+2535.5
+ 10
+271.5
+ 20
+2535.5
+ 10
+271.5
+ 20
+2598.5
+ 10
+145.5
+ 20
+2598.5
+ 10
+145.5
+ 20
+2535.5
+  0
+MTEXT
+  5
+B6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+208.5
+ 20
+2567.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+B7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+146.0
+ 20
+2536.0
+ 10
+272.0
+ 20
+2536.0
+ 10
+272.0
+ 20
+2599.0
+ 10
+146.0
+ 20
+2599.0
+ 10
+146.0
+ 20
+2536.0
+  0
+MTEXT
+  5
+B8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+209.0
+ 20
+2567.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+B9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+554.0
+ 20
+1544.0
+ 10
+617.0
+ 20
+1544.0
+ 10
+617.0
+ 20
+1669.0
+ 10
+554.0
+ 20
+1669.0
+ 10
+554.0
+ 20
+1544.0
+  0
+MTEXT
+  5
+BA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+585.5
+ 20
+1606.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+BB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+589.0
+ 20
+1800.0
+ 10
+609.0
+ 20
+1800.0
+ 10
+609.0
+ 20
+2192.0
+ 10
+589.0
+ 20
+2192.0
+ 10
+589.0
+ 20
+1800.0
+  0
+MTEXT
+  5
+BC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+599.0
+ 20
+1996.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+BD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+510.0
+ 20
+1943.0
+ 10
+572.0
+ 20
+1943.0
+ 10
+572.0
+ 20
+2068.0
+ 10
+510.0
+ 20
+2068.0
+ 10
+510.0
+ 20
+1943.0
+  0
+MTEXT
+  5
+BE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+541.0
+ 20
+2005.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+BF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+589.0
+ 20
+2207.0
+ 10
+614.0
+ 20
+2207.0
+ 10
+614.0
+ 20
+2509.0
+ 10
+589.0
+ 20
+2509.0
+ 10
+589.0
+ 20
+2207.0
+  0
+MTEXT
+  5
+C0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+601.5
+ 20
+2358.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+C1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+319.0
+ 20
+1818.0
+ 10
+338.0
+ 20
+1818.0
+ 10
+338.0
+ 20
+2207.0
+ 10
+319.0
+ 20
+2207.0
+ 10
+319.0
+ 20
+1818.0
+  0
+MTEXT
+  5
+C2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+328.5
+ 20
+2012.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+C3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+319.5
+ 20
+1818.5
+ 10
+338.5
+ 20
+1818.5
+ 10
+338.5
+ 20
+2207.5
+ 10
+319.5
+ 20
+2207.5
+ 10
+319.5
+ 20
+1818.5
+  0
+MTEXT
+  5
+C4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+329.0
+ 20
+2013.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+C5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+2615.0
+ 10
+384.0
+ 20
+2615.0
+ 10
+384.0
+ 20
+2634.0
+ 10
+0.0
+ 20
+2634.0
+ 10
+0.0
+ 20
+2615.0
+  0
+MTEXT
+  5
+C6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+192.0
+ 20
+2624.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+C7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+510.0
+ 20
+2083.0
+ 10
+569.0
+ 20
+2083.0
+ 10
+569.0
+ 20
+2202.0
+ 10
+510.0
+ 20
+2202.0
+ 10
+510.0
+ 20
+2083.0
+  0
+MTEXT
+  5
+C8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+539.5
+ 20
+2142.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood
+  0
+LWPOLYLINE
+  5
+C9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+205.0
+ 20
+2024.0
+ 10
+223.0
+ 20
+2024.0
+ 10
+223.0
+ 20
+2392.0
+ 10
+205.0
+ 20
+2392.0
+ 10
+205.0
+ 20
+2024.0
+  0
+MTEXT
+  5
+CA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+214.0
+ 20
+2208.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+CB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+205.0
+ 20
+2407.0
+ 10
+520.0
+ 20
+2407.0
+ 10
+520.0
+ 20
+2428.0
+ 10
+205.0
+ 20
+2428.0
+ 10
+205.0
+ 20
+2407.0
+  0
+MTEXT
+  5
+CC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+362.5
+ 20
+2417.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+CD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+286.0
+ 20
+2535.0
+ 10
+388.0
+ 20
+2535.0
+ 10
+388.0
+ 20
+2586.0
+ 10
+286.0
+ 20
+2586.0
+ 10
+286.0
+ 20
+2535.0
+  0
+MTEXT
+  5
+CE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+337.0
+ 20
+2560.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+CF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+554.0
+ 20
+1684.0
+ 10
+604.0
+ 20
+1684.0
+ 10
+604.0
+ 20
+1784.0
+ 10
+554.0
+ 20
+1784.0
+ 10
+554.0
+ 20
+1684.0
+  0
+MTEXT
+  5
+D0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+579.0
+ 20
+1734.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+D1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+589.0
+ 20
+2524.0
+ 10
+635.0
+ 20
+2524.0
+ 10
+635.0
+ 20
+2616.0
+ 10
+589.0
+ 20
+2616.0
+ 10
+589.0
+ 20
+2524.0
+  0
+MTEXT
+  5
+D2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+612.0
+ 20
+2570.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+D3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+589.5
+ 20
+2524.5
+ 10
+635.5
+ 20
+2524.5
+ 10
+635.5
+ 20
+2616.5
+ 10
+589.5
+ 20
+2616.5
+ 10
+589.5
+ 20
+2524.5
+  0
+MTEXT
+  5
+D4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+612.5
+ 20
+2570.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+D5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+542.0
+ 20
+2226.0
+ 10
+574.0
+ 20
+2226.0
+ 10
+574.0
+ 20
+2334.0
+ 10
+542.0
+ 20
+2334.0
+ 10
+542.0
+ 20
+2226.0
+  0
+MTEXT
+  5
+D6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+558.0
+ 20
+2280.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+D7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+542.0
+ 20
+2349.0
+ 10
+574.0
+ 20
+2349.0
+ 10
+574.0
+ 20
+2456.0
+ 10
+542.0
+ 20
+2456.0
+ 10
+542.0
+ 20
+2349.0
+  0
+MTEXT
+  5
+D8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+558.0
+ 20
+2402.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+D9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+2800.0
+ 10
+650.0
+ 20
+2800.0
+ 10
+650.0
+ 20
+4050.0
+ 10
+0.0
+ 20
+4050.0
+ 10
+0.0
+ 20
+2800.0
+  0
+LWPOLYLINE
+  5
+DA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+2800.0
+ 10
+87.0
+ 20
+2800.0
+ 10
+87.0
+ 20
+2931.0
+ 10
+0.0
+ 20
+2931.0
+ 10
+0.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+DB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+43.5
+ 20
+2865.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Sheet\P18.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+DC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+102.0
+ 20
+2800.0
+ 10
+180.0
+ 20
+2800.0
+ 10
+180.0
+ 20
+2917.0
+ 10
+102.0
+ 20
+2917.0
+ 10
+102.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+DD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+141.0
+ 20
+2858.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Sheet\P18.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+DE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+2946.0
+ 10
+76.0
+ 20
+2946.0
+ 10
+76.0
+ 20
+3060.0
+ 10
+0.0
+ 20
+3060.0
+ 10
+0.0
+ 20
+2946.0
+  0
+MTEXT
+  5
+DF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+38.0
+ 20
+3003.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Sheet\P18.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+E0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+195.0
+ 20
+2800.0
+ 10
+269.0
+ 20
+2800.0
+ 10
+269.0
+ 20
+2911.0
+ 10
+195.0
+ 20
+2911.0
+ 10
+195.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+E1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+232.0
+ 20
+2855.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Sheet\P18.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+E2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+102.0
+ 20
+2932.0
+ 10
+176.0
+ 20
+2932.0
+ 10
+176.0
+ 20
+3043.0
+ 10
+102.0
+ 20
+3043.0
+ 10
+102.0
+ 20
+2932.0
+  0
+MTEXT
+  5
+E3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+139.0
+ 20
+2987.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Sheet\P18.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+E4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+3075.0
+ 10
+73.0
+ 20
+3075.0
+ 10
+73.0
+ 20
+3185.0
+ 10
+0.0
+ 20
+3185.0
+ 10
+0.0
+ 20
+3075.0
+  0
+MTEXT
+  5
+E5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+36.5
+ 20
+3130.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Sheet\P18.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+E6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+284.0
+ 20
+2800.0
+ 10
+335.0
+ 20
+2800.0
+ 10
+335.0
+ 20
+2954.0
+ 10
+284.0
+ 20
+2954.0
+ 10
+284.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+E7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+309.5
+ 20
+2877.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Panel\P15.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+E8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+195.0
+ 20
+2926.0
+ 10
+246.0
+ 20
+2926.0
+ 10
+246.0
+ 20
+3078.0
+ 10
+195.0
+ 20
+3078.0
+ 10
+195.0
+ 20
+2926.0
+  0
+MTEXT
+  5
+E9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+220.5
+ 20
+3002.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Panel\P15.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+EA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+102.0
+ 20
+3058.0
+ 10
+152.0
+ 20
+3058.0
+ 10
+152.0
+ 20
+3208.0
+ 10
+102.0
+ 20
+3208.0
+ 10
+102.0
+ 20
+3058.0
+  0
+MTEXT
+  5
+EB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+127.0
+ 20
+3133.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Panel\P15.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+EC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+3200.0
+ 10
+25.0
+ 20
+3200.0
+ 10
+25.0
+ 20
+3498.0
+ 10
+0.0
+ 20
+3498.0
+ 10
+0.0
+ 20
+3200.0
+  0
+MTEXT
+  5
+ED
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+12.5
+ 20
+3349.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+EE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+350.0
+ 20
+2800.0
+ 10
+369.0
+ 20
+2800.0
+ 10
+369.0
+ 20
+3174.0
+ 10
+350.0
+ 20
+3174.0
+ 10
+350.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+EF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+359.5
+ 20
+2987.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+F0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+284.0
+ 20
+2969.0
+ 10
+303.0
+ 20
+2969.0
+ 10
+303.0
+ 20
+3342.0
+ 10
+284.0
+ 20
+3342.0
+ 10
+284.0
+ 20
+2969.0
+  0
+MTEXT
+  5
+F1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+293.5
+ 20
+3155.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+F2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+195.0
+ 20
+3093.0
+ 10
+219.0
+ 20
+3093.0
+ 10
+219.0
+ 20
+3386.0
+ 10
+195.0
+ 20
+3386.0
+ 10
+195.0
+ 20
+3093.0
+  0
+MTEXT
+  5
+F3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+207.0
+ 20
+3239.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+F4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+102.0
+ 20
+3223.0
+ 10
+167.0
+ 20
+3223.0
+ 10
+167.0
+ 20
+3331.0
+ 10
+102.0
+ 20
+3331.0
+ 10
+102.0
+ 20
+3223.0
+  0
+MTEXT
+  5
+F5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+134.5
+ 20
+3277.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Pane\P12.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+F6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+40.0
+ 20
+3200.0
+ 10
+64.0
+ 20
+3200.0
+ 10
+64.0
+ 20
+3490.0
+ 10
+40.0
+ 20
+3490.0
+ 10
+40.0
+ 20
+3200.0
+  0
+MTEXT
+  5
+F7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+52.0
+ 20
+3345.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+F8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+3513.0
+ 10
+48.0
+ 20
+3513.0
+ 10
+48.0
+ 20
+3657.0
+ 10
+0.0
+ 20
+3657.0
+ 10
+0.0
+ 20
+3513.0
+  0
+MTEXT
+  5
+F9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+24.0
+ 20
+3585.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Panel\P15.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+FA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+384.0
+ 20
+2800.0
+ 10
+442.0
+ 20
+2800.0
+ 10
+442.0
+ 20
+2917.0
+ 10
+384.0
+ 20
+2917.0
+ 10
+384.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+FB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+413.0
+ 20
+2858.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+FC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+384.5
+ 20
+2800.5
+ 10
+442.5
+ 20
+2800.5
+ 10
+442.5
+ 20
+2917.5
+ 10
+384.5
+ 20
+2917.5
+ 10
+384.5
+ 20
+2800.5
+  0
+MTEXT
+  5
+FD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+413.5
+ 20
+2859.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+FE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+350.0
+ 20
+3189.0
+ 10
+397.0
+ 20
+3189.0
+ 10
+397.0
+ 20
+3331.0
+ 10
+350.0
+ 20
+3331.0
+ 10
+350.0
+ 20
+3189.0
+  0
+MTEXT
+  5
+FF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+373.5
+ 20
+3260.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Panel\P15.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+100
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+284.0
+ 20
+3357.0
+ 10
+331.0
+ 20
+3357.0
+ 10
+331.0
+ 20
+3498.0
+ 10
+284.0
+ 20
+3498.0
+ 10
+284.0
+ 20
+3357.0
+  0
+MTEXT
+  5
+101
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+307.5
+ 20
+3427.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Panel\P15.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+102
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+234.0
+ 20
+3093.0
+ 10
+252.0
+ 20
+3093.0
+ 10
+252.0
+ 20
+3459.0
+ 10
+234.0
+ 20
+3459.0
+ 10
+234.0
+ 20
+3093.0
+  0
+MTEXT
+  5
+103
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+243.0
+ 20
+3276.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Beam\P18.0kg\PWood
+  0
+LWPOLYLINE
+  5
+104
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+195.0
+ 20
+3401.0
+ 10
+218.0
+ 20
+3401.0
+ 10
+218.0
+ 20
+3683.0
+ 10
+195.0
+ 20
+3683.0
+ 10
+195.0
+ 20
+3401.0
+  0
+MTEXT
+  5
+105
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+206.5
+ 20
+3542.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+106
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+102.0
+ 20
+3346.0
+ 10
+164.0
+ 20
+3346.0
+ 10
+164.0
+ 20
+3449.0
+ 10
+102.0
+ 20
+3449.0
+ 10
+102.0
+ 20
+3346.0
+  0
+MTEXT
+  5
+107
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+133.0
+ 20
+3397.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Pane\P12.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+108
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+63.0
+ 20
+3513.0
+ 10
+109.0
+ 20
+3513.0
+ 10
+109.0
+ 20
+3650.0
+ 10
+63.0
+ 20
+3650.0
+ 10
+63.0
+ 20
+3513.0
+  0
+MTEXT
+  5
+109
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+86.0
+ 20
+3581.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Panel\P15.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+10A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+3672.0
+ 10
+23.0
+ 20
+3672.0
+ 10
+23.0
+ 20
+3944.0
+ 10
+0.0
+ 20
+3944.0
+ 10
+0.0
+ 20
+3672.0
+  0
+MTEXT
+  5
+10B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+11.5
+ 20
+3808.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+10C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+457.0
+ 20
+2800.0
+ 10
+480.0
+ 20
+2800.0
+ 10
+480.0
+ 20
+3071.0
+ 10
+457.0
+ 20
+3071.0
+ 10
+457.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+10D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+468.5
+ 20
+2935.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Plank\P12.0kg\PWood
+  0
+LWPOLYLINE
+  5
+10E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+412.0
+ 20
+3189.0
+ 10
+473.0
+ 20
+3189.0
+ 10
+473.0
+ 20
+3291.0
+ 10
+412.0
+ 20
+3291.0
+ 10
+412.0
+ 20
+3189.0
+  0
+MTEXT
+  5
+10F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+442.5
+ 20
+3240.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Pane\P12.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+110
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+384.0
+ 20
+2932.0
+ 10
+439.0
+ 20
+2932.0
+ 10
+439.0
+ 20
+3042.0
+ 10
+384.0
+ 20
+3042.0
+ 10
+384.0
+ 20
+2932.0
+  0
+MTEXT
+  5
+111
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+411.5
+ 20
+2987.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood
+  0
+LWPOLYLINE
+  5
+112
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+350.0
+ 20
+3346.0
+ 10
+410.0
+ 20
+3346.0
+ 10
+410.0
+ 20
+3446.0
+ 10
+350.0
+ 20
+3446.0
+ 10
+350.0
+ 20
+3346.0
+  0
+MTEXT
+  5
+113
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+380.0
+ 20
+3396.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Pane\P12.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+114
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+284.0
+ 20
+3513.0
+ 10
+339.0
+ 20
+3513.0
+ 10
+339.0
+ 20
+3622.0
+ 10
+284.0
+ 20
+3622.0
+ 10
+284.0
+ 20
+3513.0
+  0
+MTEXT
+  5
+115
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+311.5
+ 20
+3567.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Wood Frame\P8.0kg\PWood
+  0
+LWPOLYLINE
+  5
+116
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+195.0
+ 20
+3698.0
+ 10
+254.0
+ 20
+3698.0
+ 10
+254.0
+ 20
+3796.0
+ 10
+195.0
+ 20
+3796.0
+ 10
+195.0
+ 20
+3698.0
+  0
+MTEXT
+  5
+117
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+224.5
+ 20
+3747.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Pane\P12.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+118
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+63.0
+ 20
+3665.0
+ 10
+121.0
+ 20
+3665.0
+ 10
+121.0
+ 20
+3761.0
+ 10
+63.0
+ 20
+3761.0
+ 10
+63.0
+ 20
+3665.0
+  0
+MTEXT
+  5
+119
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+92.0
+ 20
+3713.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Pane\P12.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+11A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+3959.0
+ 10
+95.0
+ 20
+3959.0
+ 10
+95.0
+ 20
+4016.0
+ 10
+0.0
+ 20
+4016.0
+ 10
+0.0
+ 20
+3959.0
+  0
+MTEXT
+  5
+11B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+47.5
+ 20
+3987.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Glass Pane\P12.0kg\PGlass
+  0
+LWPOLYLINE
+  5
+11C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+318.0
+ 20
+2969.0
+ 10
+333.0
+ 20
+2969.0
+ 10
+333.0
+ 20
+3170.0
+ 10
+318.0
+ 20
+3170.0
+ 10
+318.0
+ 20
+2969.0
+  0
+MTEXT
+  5
+11D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+325.5
+ 20
+3069.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+11E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+234.0
+ 20
+3474.0
+ 10
+249.0
+ 20
+3474.0
+ 10
+249.0
+ 20
+3673.0
+ 10
+234.0
+ 20
+3673.0
+ 10
+234.0
+ 20
+3474.0
+  0
+MTEXT
+  5
+11F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+241.5
+ 20
+3573.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+120
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+124.0
+ 20
+3513.0
+ 10
+168.0
+ 20
+3513.0
+ 10
+168.0
+ 20
+3579.0
+ 10
+124.0
+ 20
+3579.0
+ 10
+124.0
+ 20
+3513.0
+  0
+MTEXT
+  5
+121
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+146.0
+ 20
+3546.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+122
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+495.0
+ 20
+2800.0
+ 10
+548.0
+ 20
+2800.0
+ 10
+548.0
+ 20
+2853.0
+ 10
+495.0
+ 20
+2853.0
+ 10
+495.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+123
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+521.5
+ 20
+2826.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+124
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+457.0
+ 20
+3086.0
+ 10
+500.0
+ 20
+3086.0
+ 10
+500.0
+ 20
+3151.0
+ 10
+457.0
+ 20
+3151.0
+ 10
+457.0
+ 20
+3086.0
+  0
+MTEXT
+  5
+125
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+478.5
+ 20
+3118.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+126
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+488.0
+ 20
+3189.0
+ 10
+540.0
+ 20
+3189.0
+ 10
+540.0
+ 20
+3241.0
+ 10
+488.0
+ 20
+3241.0
+ 10
+488.0
+ 20
+3189.0
+  0
+MTEXT
+  5
+127
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+514.0
+ 20
+3215.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+128
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+384.0
+ 20
+3057.0
+ 10
+426.0
+ 20
+3057.0
+ 10
+426.0
+ 20
+3120.0
+ 10
+384.0
+ 20
+3120.0
+ 10
+384.0
+ 20
+3057.0
+  0
+MTEXT
+  5
+129
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+405.0
+ 20
+3088.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+12A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+425.0
+ 20
+3346.0
+ 10
+476.0
+ 20
+3346.0
+ 10
+476.0
+ 20
+3397.0
+ 10
+425.0
+ 20
+3397.0
+ 10
+425.0
+ 20
+3346.0
+  0
+MTEXT
+  5
+12B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+450.5
+ 20
+3371.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+12C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+412.0
+ 20
+3306.0
+ 10
+595.0
+ 20
+3306.0
+ 10
+595.0
+ 20
+3320.0
+ 10
+412.0
+ 20
+3320.0
+ 10
+412.0
+ 20
+3306.0
+  0
+MTEXT
+  5
+12D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+503.5
+ 20
+3313.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+12E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+350.0
+ 20
+3461.0
+ 10
+532.0
+ 20
+3461.0
+ 10
+532.0
+ 20
+3475.0
+ 10
+350.0
+ 20
+3475.0
+ 10
+350.0
+ 20
+3461.0
+  0
+MTEXT
+  5
+12F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+441.0
+ 20
+3468.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+130
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+354.0
+ 20
+3513.0
+ 10
+368.0
+ 20
+3513.0
+ 10
+368.0
+ 20
+3694.0
+ 10
+354.0
+ 20
+3694.0
+ 10
+354.0
+ 20
+3513.0
+  0
+MTEXT
+  5
+131
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+361.0
+ 20
+3603.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+132
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+284.0
+ 20
+3637.0
+ 10
+298.0
+ 20
+3637.0
+ 10
+298.0
+ 20
+3817.0
+ 10
+284.0
+ 20
+3817.0
+ 10
+284.0
+ 20
+3637.0
+  0
+MTEXT
+  5
+133
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+291.0
+ 20
+3727.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Pipe\P3.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+134
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+195.0
+ 20
+3811.0
+ 10
+244.0
+ 20
+3811.0
+ 10
+244.0
+ 20
+3860.0
+ 10
+195.0
+ 20
+3860.0
+ 10
+195.0
+ 20
+3811.0
+  0
+MTEXT
+  5
+135
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+219.5
+ 20
+3835.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+136
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+195.5
+ 20
+3811.5
+ 10
+244.5
+ 20
+3811.5
+ 10
+244.5
+ 20
+3860.5
+ 10
+195.5
+ 20
+3860.5
+ 10
+195.5
+ 20
+3811.5
+  0
+MTEXT
+  5
+137
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+220.0
+ 20
+3836.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+138
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+196.0
+ 20
+3812.0
+ 10
+245.0
+ 20
+3812.0
+ 10
+245.0
+ 20
+3861.0
+ 10
+196.0
+ 20
+3861.0
+ 10
+196.0
+ 20
+3812.0
+  0
+MTEXT
+  5
+139
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+220.5
+ 20
+3836.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+13A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+63.0
+ 20
+3776.0
+ 10
+111.0
+ 20
+3776.0
+ 10
+111.0
+ 20
+3824.0
+ 10
+63.0
+ 20
+3824.0
+ 10
+63.0
+ 20
+3776.0
+  0
+MTEXT
+  5
+13B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+87.0
+ 20
+3800.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+13C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+63.5
+ 20
+3776.5
+ 10
+111.5
+ 20
+3776.5
+ 10
+111.5
+ 20
+3824.5
+ 10
+63.5
+ 20
+3824.5
+ 10
+63.5
+ 20
+3776.5
+  0
+MTEXT
+  5
+13D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+87.5
+ 20
+3800.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+13E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+136.0
+ 20
+3665.0
+ 10
+175.0
+ 20
+3665.0
+ 10
+175.0
+ 20
+3724.0
+ 10
+136.0
+ 20
+3724.0
+ 10
+136.0
+ 20
+3665.0
+  0
+MTEXT
+  5
+13F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+155.5
+ 20
+3694.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+140
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+136.5
+ 20
+3665.5
+ 10
+175.5
+ 20
+3665.5
+ 10
+175.5
+ 20
+3724.5
+ 10
+136.5
+ 20
+3724.5
+ 10
+136.5
+ 20
+3665.5
+  0
+MTEXT
+  5
+141
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+156.0
+ 20
+3695.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+142
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+110.0
+ 20
+3959.0
+ 10
+149.0
+ 20
+3959.0
+ 10
+149.0
+ 20
+4017.0
+ 10
+110.0
+ 20
+4017.0
+ 10
+110.0
+ 20
+3959.0
+  0
+MTEXT
+  5
+143
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+129.5
+ 20
+3988.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+144
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+110.5
+ 20
+3959.5
+ 10
+149.5
+ 20
+3959.5
+ 10
+149.5
+ 20
+4017.5
+ 10
+110.5
+ 20
+4017.5
+ 10
+110.5
+ 20
+3959.5
+  0
+MTEXT
+  5
+145
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+130.0
+ 20
+3988.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Container\P5.0kg\PPlastic\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+146
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+124.0
+ 20
+3594.0
+ 10
+171.0
+ 20
+3594.0
+ 10
+171.0
+ 20
+3641.0
+ 10
+124.0
+ 20
+3641.0
+ 10
+124.0
+ 20
+3594.0
+  0
+MTEXT
+  5
+147
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+147.5
+ 20
+3617.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+148
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+563.0
+ 20
+2800.0
+ 10
+609.0
+ 20
+2800.0
+ 10
+609.0
+ 20
+2846.0
+ 10
+563.0
+ 20
+2846.0
+ 10
+563.0
+ 20
+2800.0
+  0
+MTEXT
+  5
+149
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+586.0
+ 20
+2823.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Plastic Bin\P4.0kg\PPlastic
+  0
+LWPOLYLINE
+  5
+14A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+4200.0
+ 10
+650.0
+ 20
+4200.0
+ 10
+650.0
+ 20
+5450.0
+ 10
+0.0
+ 20
+5450.0
+ 10
+0.0
+ 20
+4200.0
+  0
+LWPOLYLINE
+  5
+14B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+4200.0
+ 10
+22.0
+ 20
+4200.0
+ 10
+22.0
+ 20
+4529.0
+ 10
+0.0
+ 20
+4529.0
+ 10
+0.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+14C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+11.0
+ 20
+4364.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+14D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.5
+ 20
+4200.5
+ 10
+22.5
+ 20
+4200.5
+ 10
+22.5
+ 20
+4529.5
+ 10
+0.5
+ 20
+4529.5
+ 10
+0.5
+ 20
+4200.5
+  0
+MTEXT
+  5
+14E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+11.5
+ 20
+4365.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+14F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+37.0
+ 20
+4200.0
+ 10
+59.0
+ 20
+4200.0
+ 10
+59.0
+ 20
+4523.0
+ 10
+37.0
+ 20
+4523.0
+ 10
+37.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+150
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+48.0
+ 20
+4361.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+151
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+4544.0
+ 10
+21.0
+ 20
+4544.0
+ 10
+21.0
+ 20
+4866.0
+ 10
+0.0
+ 20
+4866.0
+ 10
+0.0
+ 20
+4544.0
+  0
+MTEXT
+  5
+152
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+10.5
+ 20
+4705.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+153
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+74.0
+ 20
+4200.0
+ 10
+95.0
+ 20
+4200.0
+ 10
+95.0
+ 20
+4519.0
+ 10
+74.0
+ 20
+4519.0
+ 10
+74.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+154
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+84.5
+ 20
+4359.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+155
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+37.0
+ 20
+4538.0
+ 10
+94.0
+ 20
+4538.0
+ 10
+94.0
+ 20
+4652.0
+ 10
+37.0
+ 20
+4652.0
+ 10
+37.0
+ 20
+4538.0
+  0
+MTEXT
+  5
+156
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+65.5
+ 20
+4595.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+157
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+4881.0
+ 10
+56.0
+ 20
+4881.0
+ 10
+56.0
+ 20
+4992.0
+ 10
+0.0
+ 20
+4992.0
+ 10
+0.0
+ 20
+4881.0
+  0
+MTEXT
+  5
+158
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+28.0
+ 20
+4936.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+159
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.5
+ 20
+4881.5
+ 10
+56.5
+ 20
+4881.5
+ 10
+56.5
+ 20
+4992.5
+ 10
+0.5
+ 20
+4992.5
+ 10
+0.5
+ 20
+4881.5
+  0
+MTEXT
+  5
+15A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+28.5
+ 20
+4937.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+15B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+110.0
+ 20
+4200.0
+ 10
+165.0
+ 20
+4200.0
+ 10
+165.0
+ 20
+4311.0
+ 10
+110.0
+ 20
+4311.0
+ 10
+110.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+15C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+137.5
+ 20
+4255.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+15D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+109.0
+ 20
+4538.0
+ 10
+129.0
+ 20
+4538.0
+ 10
+129.0
+ 20
+4843.0
+ 10
+109.0
+ 20
+4843.0
+ 10
+109.0
+ 20
+4538.0
+  0
+MTEXT
+  5
+15E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+119.0
+ 20
+4690.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+15F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+71.0
+ 20
+4881.0
+ 10
+91.0
+ 20
+4881.0
+ 10
+91.0
+ 20
+5184.0
+ 10
+71.0
+ 20
+5184.0
+ 10
+71.0
+ 20
+4881.0
+  0
+MTEXT
+  5
+160
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+81.0
+ 20
+5032.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+161
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+37.0
+ 20
+4667.0
+ 10
+92.0
+ 20
+4667.0
+ 10
+92.0
+ 20
+4777.0
+ 10
+37.0
+ 20
+4777.0
+ 10
+37.0
+ 20
+4667.0
+  0
+MTEXT
+  5
+162
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+64.5
+ 20
+4722.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+163
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+5007.0
+ 10
+20.0
+ 20
+5007.0
+ 10
+20.0
+ 20
+5307.0
+ 10
+0.0
+ 20
+5307.0
+ 10
+0.0
+ 20
+5007.0
+  0
+MTEXT
+  5
+164
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+10.0
+ 20
+5157.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+165
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+180.0
+ 20
+4200.0
+ 10
+235.0
+ 20
+4200.0
+ 10
+235.0
+ 20
+4309.0
+ 10
+180.0
+ 20
+4309.0
+ 10
+180.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+166
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+207.5
+ 20
+4254.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+167
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+110.0
+ 20
+4326.0
+ 10
+409.0
+ 20
+4326.0
+ 10
+409.0
+ 20
+4346.0
+ 10
+110.0
+ 20
+4346.0
+ 10
+110.0
+ 20
+4326.0
+  0
+MTEXT
+  5
+168
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+259.5
+ 20
+4336.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+169
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+144.0
+ 20
+4538.0
+ 10
+198.0
+ 20
+4538.0
+ 10
+198.0
+ 20
+4646.0
+ 10
+144.0
+ 20
+4646.0
+ 10
+144.0
+ 20
+4538.0
+  0
+MTEXT
+  5
+16A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+171.0
+ 20
+4592.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+16B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+144.5
+ 20
+4538.5
+ 10
+198.5
+ 20
+4538.5
+ 10
+198.5
+ 20
+4646.5
+ 10
+144.5
+ 20
+4646.5
+ 10
+144.5
+ 20
+4538.5
+  0
+MTEXT
+  5
+16C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+171.5
+ 20
+4592.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+16D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+109.0
+ 20
+4858.0
+ 10
+163.0
+ 20
+4858.0
+ 10
+163.0
+ 20
+4966.0
+ 10
+109.0
+ 20
+4966.0
+ 10
+109.0
+ 20
+4858.0
+  0
+MTEXT
+  5
+16E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+136.0
+ 20
+4912.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Slab\P80.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+16F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+71.0
+ 20
+5199.0
+ 10
+125.0
+ 20
+5199.0
+ 10
+125.0
+ 20
+5306.0
+ 10
+71.0
+ 20
+5306.0
+ 10
+71.0
+ 20
+5199.0
+  0
+MTEXT
+  5
+170
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+98.0
+ 20
+5252.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+171
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+0.0
+ 20
+5322.0
+ 10
+53.0
+ 20
+5322.0
+ 10
+53.0
+ 20
+5428.0
+ 10
+0.0
+ 20
+5428.0
+ 10
+0.0
+ 20
+5322.0
+  0
+MTEXT
+  5
+172
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+26.5
+ 20
+5375.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+173
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+35.0
+ 20
+5007.0
+ 10
+54.0
+ 20
+5007.0
+ 10
+54.0
+ 20
+5298.0
+ 10
+35.0
+ 20
+5298.0
+ 10
+35.0
+ 20
+5007.0
+  0
+MTEXT
+  5
+174
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+44.5
+ 20
+5152.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+175
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+250.0
+ 20
+4200.0
+ 10
+302.0
+ 20
+4200.0
+ 10
+302.0
+ 20
+4304.0
+ 10
+250.0
+ 20
+4304.0
+ 10
+250.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+176
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+276.0
+ 20
+4252.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+177
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+250.5
+ 20
+4200.5
+ 10
+302.5
+ 20
+4200.5
+ 10
+302.5
+ 20
+4304.5
+ 10
+250.5
+ 20
+4304.5
+ 10
+250.5
+ 20
+4200.5
+  0
+MTEXT
+  5
+178
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+276.5
+ 20
+4252.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+179
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+424.0
+ 20
+4326.0
+ 10
+443.0
+ 20
+4326.0
+ 10
+443.0
+ 20
+4604.0
+ 10
+424.0
+ 20
+4604.0
+ 10
+424.0
+ 20
+4326.0
+  0
+MTEXT
+  5
+17A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+433.5
+ 20
+4465.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Pipe\P15.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+17B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+110.0
+ 20
+4361.0
+ 10
+159.0
+ 20
+4361.0
+ 10
+159.0
+ 20
+4459.0
+ 10
+110.0
+ 20
+4459.0
+ 10
+110.0
+ 20
+4361.0
+  0
+MTEXT
+  5
+17C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+134.5
+ 20
+4410.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+17D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+213.0
+ 20
+4538.0
+ 10
+261.0
+ 20
+4538.0
+ 10
+261.0
+ 20
+4635.0
+ 10
+213.0
+ 20
+4635.0
+ 10
+213.0
+ 20
+4538.0
+  0
+MTEXT
+  5
+17E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+237.0
+ 20
+4586.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+17F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+144.0
+ 20
+4661.0
+ 10
+192.0
+ 20
+4661.0
+ 10
+192.0
+ 20
+4757.0
+ 10
+144.0
+ 20
+4757.0
+ 10
+144.0
+ 20
+4661.0
+  0
+MTEXT
+  5
+180
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+168.0
+ 20
+4709.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+181
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+178.0
+ 20
+4858.0
+ 10
+226.0
+ 20
+4858.0
+ 10
+226.0
+ 20
+4953.0
+ 10
+178.0
+ 20
+4953.0
+ 10
+178.0
+ 20
+4858.0
+  0
+MTEXT
+  5
+182
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+202.0
+ 20
+4905.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+183
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+109.0
+ 20
+4981.0
+ 10
+156.0
+ 20
+4981.0
+ 10
+156.0
+ 20
+5076.0
+ 10
+109.0
+ 20
+5076.0
+ 10
+109.0
+ 20
+4981.0
+  0
+MTEXT
+  5
+184
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+132.5
+ 20
+5028.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+185
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+109.5
+ 20
+4981.5
+ 10
+156.5
+ 20
+4981.5
+ 10
+156.5
+ 20
+5076.5
+ 10
+109.5
+ 20
+5076.5
+ 10
+109.5
+ 20
+4981.5
+  0
+MTEXT
+  5
+186
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+133.0
+ 20
+5029.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+187
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+110.0
+ 20
+4982.0
+ 10
+157.0
+ 20
+4982.0
+ 10
+157.0
+ 20
+5077.0
+ 10
+110.0
+ 20
+5077.0
+ 10
+110.0
+ 20
+4982.0
+  0
+MTEXT
+  5
+188
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+133.5
+ 20
+5029.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+189
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+140.0
+ 20
+5199.0
+ 10
+186.0
+ 20
+5199.0
+ 10
+186.0
+ 20
+5290.0
+ 10
+140.0
+ 20
+5290.0
+ 10
+140.0
+ 20
+5199.0
+  0
+MTEXT
+  5
+18A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+163.0
+ 20
+5244.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+18B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+71.0
+ 20
+5321.0
+ 10
+116.0
+ 20
+5321.0
+ 10
+116.0
+ 20
+5411.0
+ 10
+71.0
+ 20
+5411.0
+ 10
+71.0
+ 20
+5321.0
+  0
+MTEXT
+  5
+18C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+93.5
+ 20
+5366.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Plate\P25.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+18D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+317.0
+ 20
+4200.0
+ 10
+361.0
+ 20
+4200.0
+ 10
+361.0
+ 20
+4287.0
+ 10
+317.0
+ 20
+4287.0
+ 10
+317.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+18E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+339.0
+ 20
+4243.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+18F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+458.0
+ 20
+4326.0
+ 10
+501.0
+ 20
+4326.0
+ 10
+501.0
+ 20
+4413.0
+ 10
+458.0
+ 20
+4413.0
+ 10
+458.0
+ 20
+4326.0
+  0
+MTEXT
+  5
+190
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+479.5
+ 20
+4369.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+191
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+458.5
+ 20
+4326.5
+ 10
+501.5
+ 20
+4326.5
+ 10
+501.5
+ 20
+4413.5
+ 10
+458.5
+ 20
+4413.5
+ 10
+458.5
+ 20
+4326.5
+  0
+MTEXT
+  5
+192
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+480.0
+ 20
+4370.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+193
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+424.0
+ 20
+4619.0
+ 10
+467.0
+ 20
+4619.0
+ 10
+467.0
+ 20
+4706.0
+ 10
+424.0
+ 20
+4706.0
+ 10
+424.0
+ 20
+4619.0
+  0
+MTEXT
+  5
+194
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+445.5
+ 20
+4662.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+195
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+174.0
+ 20
+4361.0
+ 10
+217.0
+ 20
+4361.0
+ 10
+217.0
+ 20
+4446.0
+ 10
+174.0
+ 20
+4446.0
+ 10
+174.0
+ 20
+4361.0
+  0
+MTEXT
+  5
+196
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+195.5
+ 20
+4403.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+197
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+174.5
+ 20
+4361.5
+ 10
+217.5
+ 20
+4361.5
+ 10
+217.5
+ 20
+4446.5
+ 10
+174.5
+ 20
+4446.5
+ 10
+174.5
+ 20
+4361.5
+  0
+MTEXT
+  5
+198
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+196.0
+ 20
+4404.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+199
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+110.0
+ 20
+4474.0
+ 10
+195.0
+ 20
+4474.0
+ 10
+195.0
+ 20
+4517.0
+ 10
+110.0
+ 20
+4517.0
+ 10
+110.0
+ 20
+4474.0
+  0
+MTEXT
+  5
+19A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+152.5
+ 20
+4495.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+19B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+276.0
+ 20
+4538.0
+ 10
+309.0
+ 20
+4538.0
+ 10
+309.0
+ 20
+4647.0
+ 10
+276.0
+ 20
+4647.0
+ 10
+276.0
+ 20
+4538.0
+  0
+MTEXT
+  5
+19C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+292.5
+ 20
+4592.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+19D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+276.5
+ 20
+4538.5
+ 10
+309.5
+ 20
+4538.5
+ 10
+309.5
+ 20
+4647.5
+ 10
+276.5
+ 20
+4647.5
+ 10
+276.5
+ 20
+4538.5
+  0
+MTEXT
+  5
+19E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+293.0
+ 20
+4593.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+19F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+213.0
+ 20
+4650.0
+ 10
+255.0
+ 20
+4650.0
+ 10
+255.0
+ 20
+4735.0
+ 10
+213.0
+ 20
+4735.0
+ 10
+213.0
+ 20
+4650.0
+  0
+MTEXT
+  5
+1A0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+234.0
+ 20
+4692.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1A1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+213.5
+ 20
+4650.5
+ 10
+255.5
+ 20
+4650.5
+ 10
+255.5
+ 20
+4735.5
+ 10
+213.5
+ 20
+4735.5
+ 10
+213.5
+ 20
+4650.5
+  0
+MTEXT
+  5
+1A2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+234.5
+ 20
+4693.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1A3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+144.0
+ 20
+4772.0
+ 10
+227.0
+ 20
+4772.0
+ 10
+227.0
+ 20
+4813.0
+ 10
+144.0
+ 20
+4813.0
+ 10
+144.0
+ 20
+4772.0
+  0
+MTEXT
+  5
+1A4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+185.5
+ 20
+4792.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1A5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+241.0
+ 20
+4858.0
+ 10
+273.0
+ 20
+4858.0
+ 10
+273.0
+ 20
+4964.0
+ 10
+241.0
+ 20
+4964.0
+ 10
+241.0
+ 20
+4858.0
+  0
+MTEXT
+  5
+1A6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+257.0
+ 20
+4911.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1A7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+178.0
+ 20
+4968.0
+ 10
+219.0
+ 20
+4968.0
+ 10
+219.0
+ 20
+5050.0
+ 10
+178.0
+ 20
+5050.0
+ 10
+178.0
+ 20
+4968.0
+  0
+MTEXT
+  5
+1A8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+198.5
+ 20
+5009.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1A9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+178.5
+ 20
+4968.5
+ 10
+219.5
+ 20
+4968.5
+ 10
+219.5
+ 20
+5050.5
+ 10
+178.5
+ 20
+5050.5
+ 10
+178.5
+ 20
+4968.5
+  0
+MTEXT
+  5
+1AA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+199.0
+ 20
+5009.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1AB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+109.0
+ 20
+5091.0
+ 10
+150.0
+ 20
+5091.0
+ 10
+150.0
+ 20
+5172.0
+ 10
+109.0
+ 20
+5172.0
+ 10
+109.0
+ 20
+5091.0
+  0
+MTEXT
+  5
+1AC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+129.5
+ 20
+5131.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1AD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+109.5
+ 20
+5091.5
+ 10
+150.5
+ 20
+5091.5
+ 10
+150.5
+ 20
+5172.5
+ 10
+109.5
+ 20
+5172.5
+ 10
+109.5
+ 20
+5091.5
+  0
+MTEXT
+  5
+1AE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+130.0
+ 20
+5132.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1AF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+201.0
+ 20
+5199.0
+ 10
+232.0
+ 20
+5199.0
+ 10
+232.0
+ 20
+5303.0
+ 10
+201.0
+ 20
+5303.0
+ 10
+201.0
+ 20
+5199.0
+  0
+MTEXT
+  5
+1B0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+216.5
+ 20
+5251.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1B1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+201.5
+ 20
+5199.5
+ 10
+232.5
+ 20
+5199.5
+ 10
+232.5
+ 20
+5303.5
+ 10
+201.5
+ 20
+5303.5
+ 10
+201.5
+ 20
+5199.5
+  0
+MTEXT
+  5
+1B2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+217.0
+ 20
+5251.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1B3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+140.0
+ 20
+5305.0
+ 10
+180.0
+ 20
+5305.0
+ 10
+180.0
+ 20
+5385.0
+ 10
+140.0
+ 20
+5385.0
+ 10
+140.0
+ 20
+5305.0
+  0
+MTEXT
+  5
+1B4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+160.0
+ 20
+5345.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+1B5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+140.5
+ 20
+5305.5
+ 10
+180.5
+ 20
+5305.5
+ 10
+180.5
+ 20
+5385.5
+ 10
+140.5
+ 20
+5385.5
+ 10
+140.5
+ 20
+5305.5
+  0
+MTEXT
+  5
+1B6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+160.5
+ 20
+5345.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1B7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+141.0
+ 20
+5306.0
+ 10
+181.0
+ 20
+5306.0
+ 10
+181.0
+ 20
+5386.0
+ 10
+141.0
+ 20
+5386.0
+ 10
+141.0
+ 20
+5306.0
+  0
+MTEXT
+  5
+1B8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+161.0
+ 20
+5346.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+1B9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+141.5
+ 20
+5306.5
+ 10
+181.5
+ 20
+5306.5
+ 10
+181.5
+ 20
+5386.5
+ 10
+141.5
+ 20
+5386.5
+ 10
+141.5
+ 20
+5306.5
+  0
+MTEXT
+  5
+1BA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+161.5
+ 20
+5346.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+1BB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+376.0
+ 20
+4200.0
+ 10
+416.0
+ 20
+4200.0
+ 10
+416.0
+ 20
+4280.0
+ 10
+376.0
+ 20
+4280.0
+ 10
+376.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+1BC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+396.0
+ 20
+4240.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1BD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+516.0
+ 20
+4326.0
+ 10
+547.0
+ 20
+4326.0
+ 10
+547.0
+ 20
+4429.0
+ 10
+516.0
+ 20
+4429.0
+ 10
+516.0
+ 20
+4326.0
+  0
+MTEXT
+  5
+1BE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+531.5
+ 20
+4377.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1BF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+458.0
+ 20
+4428.0
+ 10
+498.0
+ 20
+4428.0
+ 10
+498.0
+ 20
+4507.0
+ 10
+458.0
+ 20
+4507.0
+ 10
+458.0
+ 20
+4428.0
+  0
+MTEXT
+  5
+1C0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+478.0
+ 20
+4467.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1C1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+482.0
+ 20
+4619.0
+ 10
+521.0
+ 20
+4619.0
+ 10
+521.0
+ 20
+4698.0
+ 10
+482.0
+ 20
+4698.0
+ 10
+482.0
+ 20
+4619.0
+  0
+MTEXT
+  5
+1C2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+501.5
+ 20
+4658.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1C3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+482.5
+ 20
+4619.5
+ 10
+521.5
+ 20
+4619.5
+ 10
+521.5
+ 20
+4698.5
+ 10
+482.5
+ 20
+4698.5
+ 10
+482.5
+ 20
+4619.5
+  0
+MTEXT
+  5
+1C4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+502.0
+ 20
+4659.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1C5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+424.0
+ 20
+4721.0
+ 10
+463.0
+ 20
+4721.0
+ 10
+463.0
+ 20
+4799.0
+ 10
+424.0
+ 20
+4799.0
+ 10
+424.0
+ 20
+4721.0
+  0
+MTEXT
+  5
+1C6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+443.5
+ 20
+4760.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1C7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+232.0
+ 20
+4361.0
+ 10
+271.0
+ 20
+4361.0
+ 10
+271.0
+ 20
+4438.0
+ 10
+232.0
+ 20
+4438.0
+ 10
+232.0
+ 20
+4361.0
+  0
+MTEXT
+  5
+1C8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+251.5
+ 20
+4399.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1C9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+210.0
+ 20
+4474.0
+ 10
+310.0
+ 20
+4474.0
+ 10
+310.0
+ 20
+4504.0
+ 10
+210.0
+ 20
+4504.0
+ 10
+210.0
+ 20
+4474.0
+  0
+MTEXT
+  5
+1CA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+260.0
+ 20
+4489.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1CB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+37.0
+ 20
+4792.0
+ 10
+91.0
+ 20
+4792.0
+ 10
+91.0
+ 20
+4846.0
+ 10
+37.0
+ 20
+4846.0
+ 10
+37.0
+ 20
+4792.0
+  0
+MTEXT
+  5
+1CC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+64.0
+ 20
+4819.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 6x)
+  0
+LWPOLYLINE
+  5
+1CD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+37.5
+ 20
+4792.5
+ 10
+91.5
+ 20
+4792.5
+ 10
+91.5
+ 20
+4846.5
+ 10
+37.5
+ 20
+4846.5
+ 10
+37.5
+ 20
+4792.5
+  0
+MTEXT
+  5
+1CE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+64.5
+ 20
+4819.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1CF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+38.0
+ 20
+4793.0
+ 10
+92.0
+ 20
+4793.0
+ 10
+92.0
+ 20
+4847.0
+ 10
+38.0
+ 20
+4847.0
+ 10
+38.0
+ 20
+4793.0
+  0
+MTEXT
+  5
+1D0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+65.0
+ 20
+4820.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+1D1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+38.5
+ 20
+4793.5
+ 10
+92.5
+ 20
+4793.5
+ 10
+92.5
+ 20
+4847.5
+ 10
+38.5
+ 20
+4847.5
+ 10
+38.5
+ 20
+4793.5
+  0
+MTEXT
+  5
+1D2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+65.5
+ 20
+4820.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+1D3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+39.0
+ 20
+4794.0
+ 10
+93.0
+ 20
+4794.0
+ 10
+93.0
+ 20
+4848.0
+ 10
+39.0
+ 20
+4848.0
+ 10
+39.0
+ 20
+4794.0
+  0
+MTEXT
+  5
+1D4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+66.0
+ 20
+4821.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 5x)
+  0
+LWPOLYLINE
+  5
+1D5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+39.5
+ 20
+4794.5
+ 10
+93.5
+ 20
+4794.5
+ 10
+93.5
+ 20
+4848.5
+ 10
+39.5
+ 20
+4848.5
+ 10
+39.5
+ 20
+4794.5
+  0
+MTEXT
+  5
+1D6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+66.5
+ 20
+4821.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 6x)
+  0
+LWPOLYLINE
+  5
+1D7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+324.0
+ 20
+4538.0
+ 10
+362.0
+ 20
+4538.0
+ 10
+362.0
+ 20
+4614.0
+ 10
+324.0
+ 20
+4614.0
+ 10
+324.0
+ 20
+4538.0
+  0
+MTEXT
+  5
+1D8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+343.0
+ 20
+4576.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1D9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+324.5
+ 20
+4538.5
+ 10
+362.5
+ 20
+4538.5
+ 10
+362.5
+ 20
+4614.5
+ 10
+324.5
+ 20
+4614.5
+ 10
+324.5
+ 20
+4538.5
+  0
+MTEXT
+  5
+1DA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+343.5
+ 20
+4576.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1DB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+276.0
+ 20
+4662.0
+ 10
+314.0
+ 20
+4662.0
+ 10
+314.0
+ 20
+4737.0
+ 10
+276.0
+ 20
+4737.0
+ 10
+276.0
+ 20
+4662.0
+  0
+MTEXT
+  5
+1DC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+295.0
+ 20
+4699.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+1DD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+242.0
+ 20
+4772.0
+ 10
+340.0
+ 20
+4772.0
+ 10
+340.0
+ 20
+4801.0
+ 10
+242.0
+ 20
+4801.0
+ 10
+242.0
+ 20
+4772.0
+  0
+MTEXT
+  5
+1DE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+291.0
+ 20
+4786.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1DF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+242.5
+ 20
+4772.5
+ 10
+340.5
+ 20
+4772.5
+ 10
+340.5
+ 20
+4801.5
+ 10
+242.5
+ 20
+4801.5
+ 10
+242.5
+ 20
+4772.5
+  0
+MTEXT
+  5
+1E0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+291.5
+ 20
+4787.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1E1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+288.0
+ 20
+4858.0
+ 10
+317.0
+ 20
+4858.0
+ 10
+317.0
+ 20
+4955.0
+ 10
+288.0
+ 20
+4955.0
+ 10
+288.0
+ 20
+4858.0
+  0
+MTEXT
+  5
+1E2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+302.5
+ 20
+4906.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+1E3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+288.5
+ 20
+4858.5
+ 10
+317.5
+ 20
+4858.5
+ 10
+317.5
+ 20
+4955.5
+ 10
+288.5
+ 20
+4955.5
+ 10
+288.5
+ 20
+4858.5
+  0
+MTEXT
+  5
+1E4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+303.0
+ 20
+4907.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1E5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+289.0
+ 20
+4859.0
+ 10
+318.0
+ 20
+4859.0
+ 10
+318.0
+ 20
+4956.0
+ 10
+289.0
+ 20
+4956.0
+ 10
+289.0
+ 20
+4859.0
+  0
+MTEXT
+  5
+1E6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+303.5
+ 20
+4907.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+1E7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+289.5
+ 20
+4859.5
+ 10
+318.5
+ 20
+4859.5
+ 10
+318.5
+ 20
+4956.5
+ 10
+289.5
+ 20
+4956.5
+ 10
+289.5
+ 20
+4859.5
+  0
+MTEXT
+  5
+1E8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+304.0
+ 20
+4908.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+1E9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+241.0
+ 20
+4979.0
+ 10
+294.0
+ 20
+4979.0
+ 10
+294.0
+ 20
+5032.0
+ 10
+241.0
+ 20
+5032.0
+ 10
+241.0
+ 20
+4979.0
+  0
+MTEXT
+  5
+1EA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+267.5
+ 20
+5005.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1EB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+241.5
+ 20
+4979.5
+ 10
+294.5
+ 20
+4979.5
+ 10
+294.5
+ 20
+5032.5
+ 10
+241.5
+ 20
+5032.5
+ 10
+241.5
+ 20
+4979.5
+  0
+MTEXT
+  5
+1EC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+268.0
+ 20
+5006.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1ED
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+178.0
+ 20
+5065.0
+ 10
+215.0
+ 20
+5065.0
+ 10
+215.0
+ 20
+5140.0
+ 10
+178.0
+ 20
+5140.0
+ 10
+178.0
+ 20
+5065.0
+  0
+MTEXT
+  5
+1EE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+196.5
+ 20
+5102.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+1EF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+247.0
+ 20
+5199.0
+ 10
+284.0
+ 20
+5199.0
+ 10
+284.0
+ 20
+5273.0
+ 10
+247.0
+ 20
+5273.0
+ 10
+247.0
+ 20
+5199.0
+  0
+MTEXT
+  5
+1F0
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+265.5
+ 20
+5236.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+1F1
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+201.0
+ 20
+5318.0
+ 10
+238.0
+ 20
+5318.0
+ 10
+238.0
+ 20
+5392.0
+ 10
+201.0
+ 20
+5392.0
+ 10
+201.0
+ 20
+5318.0
+  0
+MTEXT
+  5
+1F2
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+219.5
+ 20
+5355.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1F3
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+201.5
+ 20
+5318.5
+ 10
+238.5
+ 20
+5318.5
+ 10
+238.5
+ 20
+5392.5
+ 10
+201.5
+ 20
+5392.5
+ 10
+201.5
+ 20
+5318.5
+  0
+MTEXT
+  5
+1F4
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+220.0
+ 20
+5355.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1F5
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+431.0
+ 20
+4200.0
+ 10
+483.0
+ 20
+4200.0
+ 10
+483.0
+ 20
+4252.0
+ 10
+431.0
+ 20
+4252.0
+ 10
+431.0
+ 20
+4200.0
+  0
+MTEXT
+  5
+1F6
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+457.0
+ 20
+4226.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+1F7
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+431.5
+ 20
+4200.5
+ 10
+483.5
+ 20
+4200.5
+ 10
+483.5
+ 20
+4252.5
+ 10
+431.5
+ 20
+4252.5
+ 10
+431.5
+ 20
+4200.5
+  0
+MTEXT
+  5
+1F8
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+457.5
+ 20
+4226.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1F9
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+432.0
+ 20
+4201.0
+ 10
+484.0
+ 20
+4201.0
+ 10
+484.0
+ 20
+4253.0
+ 10
+432.0
+ 20
+4253.0
+ 10
+432.0
+ 20
+4201.0
+  0
+MTEXT
+  5
+1FA
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+458.0
+ 20
+4227.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+1FB
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+562.0
+ 20
+4326.0
+ 10
+599.0
+ 20
+4326.0
+ 10
+599.0
+ 20
+4399.0
+ 10
+562.0
+ 20
+4399.0
+ 10
+562.0
+ 20
+4326.0
+  0
+MTEXT
+  5
+1FC
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+580.5
+ 20
+4362.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+1FD
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+562.5
+ 20
+4326.5
+ 10
+599.5
+ 20
+4326.5
+ 10
+599.5
+ 20
+4399.5
+ 10
+562.5
+ 20
+4399.5
+ 10
+562.5
+ 20
+4326.5
+  0
+MTEXT
+  5
+1FE
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+581.0
+ 20
+4363.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+1FF
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+563.0
+ 20
+4327.0
+ 10
+600.0
+ 20
+4327.0
+ 10
+600.0
+ 20
+4400.0
+ 10
+563.0
+ 20
+4400.0
+ 10
+563.0
+ 20
+4327.0
+  0
+MTEXT
+  5
+200
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+581.5
+ 20
+4363.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+201
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+516.0
+ 20
+4444.0
+ 10
+552.0
+ 20
+4444.0
+ 10
+552.0
+ 20
+4517.0
+ 10
+516.0
+ 20
+4517.0
+ 10
+516.0
+ 20
+4444.0
+  0
+MTEXT
+  5
+202
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+534.0
+ 20
+4480.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Block\P30.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+203
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+536.0
+ 20
+4619.0
+ 10
+587.0
+ 20
+4619.0
+ 10
+587.0
+ 20
+4670.0
+ 10
+536.0
+ 20
+4670.0
+ 10
+536.0
+ 20
+4619.0
+  0
+MTEXT
+  5
+204
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+561.5
+ 20
+4644.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 6x)
+  0
+LWPOLYLINE
+  5
+205
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+536.5
+ 20
+4619.5
+ 10
+587.5
+ 20
+4619.5
+ 10
+587.5
+ 20
+4670.5
+ 10
+536.5
+ 20
+4670.5
+ 10
+536.5
+ 20
+4619.5
+  0
+MTEXT
+  5
+206
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+562.0
+ 20
+4645.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+207
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+537.0
+ 20
+4620.0
+ 10
+588.0
+ 20
+4620.0
+ 10
+588.0
+ 20
+4671.0
+ 10
+537.0
+ 20
+4671.0
+ 10
+537.0
+ 20
+4620.0
+  0
+MTEXT
+  5
+208
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+562.5
+ 20
+4645.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+209
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+537.5
+ 20
+4620.5
+ 10
+588.5
+ 20
+4620.5
+ 10
+588.5
+ 20
+4671.5
+ 10
+537.5
+ 20
+4671.5
+ 10
+537.5
+ 20
+4620.5
+  0
+MTEXT
+  5
+20A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+563.0
+ 20
+4646.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+20B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+538.0
+ 20
+4621.0
+ 10
+589.0
+ 20
+4621.0
+ 10
+589.0
+ 20
+4672.0
+ 10
+538.0
+ 20
+4672.0
+ 10
+538.0
+ 20
+4621.0
+  0
+MTEXT
+  5
+20C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+563.5
+ 20
+4646.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 5x)
+  0
+LWPOLYLINE
+  5
+20D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+538.5
+ 20
+4621.5
+ 10
+589.5
+ 20
+4621.5
+ 10
+589.5
+ 20
+4672.5
+ 10
+538.5
+ 20
+4672.5
+ 10
+538.5
+ 20
+4621.5
+  0
+MTEXT
+  5
+20E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+564.0
+ 20
+4647.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 6x)
+  0
+LWPOLYLINE
+  5
+20F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+458.0
+ 20
+4522.0
+ 10
+494.0
+ 20
+4522.0
+ 10
+494.0
+ 20
+4594.0
+ 10
+458.0
+ 20
+4594.0
+ 10
+458.0
+ 20
+4522.0
+  0
+MTEXT
+  5
+210
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+476.0
+ 20
+4558.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Steel Rebar Bundle\P35.0kg\PSteel
+  0
+LWPOLYLINE
+  5
+211
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+482.0
+ 20
+4713.0
+ 10
+510.0
+ 20
+4713.0
+ 10
+510.0
+ 20
+4805.0
+ 10
+482.0
+ 20
+4805.0
+ 10
+482.0
+ 20
+4713.0
+  0
+MTEXT
+  5
+212
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+496.0
+ 20
+4759.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Pipe\P45.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+213
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+286.0
+ 20
+4361.0
+ 10
+335.0
+ 20
+4361.0
+ 10
+335.0
+ 20
+4410.0
+ 10
+286.0
+ 20
+4410.0
+ 10
+286.0
+ 20
+4361.0
+  0
+MTEXT
+  5
+214
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+310.5
+ 20
+4385.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+215
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+286.5
+ 20
+4361.5
+ 10
+335.5
+ 20
+4361.5
+ 10
+335.5
+ 20
+4410.5
+ 10
+286.5
+ 20
+4410.5
+ 10
+286.5
+ 20
+4361.5
+  0
+MTEXT
+  5
+216
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+311.0
+ 20
+4386.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+217
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+325.0
+ 20
+4474.0
+ 10
+373.0
+ 20
+4474.0
+ 10
+373.0
+ 20
+4522.0
+ 10
+325.0
+ 20
+4522.0
+ 10
+325.0
+ 20
+4474.0
+  0
+MTEXT
+  5
+218
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+349.0
+ 20
+4498.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+219
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+325.5
+ 20
+4474.5
+ 10
+373.5
+ 20
+4474.5
+ 10
+373.5
+ 20
+4522.5
+ 10
+325.5
+ 20
+4522.5
+ 10
+325.5
+ 20
+4474.5
+  0
+MTEXT
+  5
+21A
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+349.5
+ 20
+4498.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+21B
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+329.0
+ 20
+4662.0
+ 10
+376.0
+ 20
+4662.0
+ 10
+376.0
+ 20
+4709.0
+ 10
+329.0
+ 20
+4709.0
+ 10
+329.0
+ 20
+4662.0
+  0
+MTEXT
+  5
+21C
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+352.5
+ 20
+4685.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+21D
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+329.5
+ 20
+4662.5
+ 10
+376.5
+ 20
+4662.5
+ 10
+376.5
+ 20
+4709.5
+ 10
+329.5
+ 20
+4709.5
+ 10
+329.5
+ 20
+4662.5
+  0
+MTEXT
+  5
+21E
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+353.0
+ 20
+4686.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 2x)
+  0
+LWPOLYLINE
+  5
+21F
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+330.0
+ 20
+4663.0
+ 10
+377.0
+ 20
+4663.0
+ 10
+377.0
+ 20
+4710.0
+ 10
+330.0
+ 20
+4710.0
+ 10
+330.0
+ 20
+4663.0
+  0
+MTEXT
+  5
+220
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+353.5
+ 20
+4686.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 3x)
+  0
+LWPOLYLINE
+  5
+221
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+330.5
+ 20
+4663.5
+ 10
+377.5
+ 20
+4663.5
+ 10
+377.5
+ 20
+4710.5
+ 10
+330.5
+ 20
+4710.5
+ 10
+330.5
+ 20
+4663.5
+  0
+MTEXT
+  5
+222
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+354.0
+ 20
+4687.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete\P(Stack: 4x)
+  0
+LWPOLYLINE
+  5
+223
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+355.0
+ 20
+4772.0
+ 10
+401.0
+ 20
+4772.0
+ 10
+401.0
+ 20
+4818.0
+ 10
+355.0
+ 20
+4818.0
+ 10
+355.0
+ 20
+4772.0
+  0
+MTEXT
+  5
+224
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+378.0
+ 20
+4795.0
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete
+  0
+LWPOLYLINE
+  5
+225
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+332.0
+ 20
+4858.0
+ 10
+377.0
+ 20
+4858.0
+ 10
+377.0
+ 20
+4903.0
+ 10
+332.0
+ 20
+4903.0
+ 10
+332.0
+ 20
+4858.0
+  0
+MTEXT
+  5
+226
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+354.5
+ 20
+4880.5
+ 30
+0.0
+ 40
+5.0
+ 71
+5
+  1
+Concrete Tile\P15.0kg\PConcrete
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+A
+330
+0
+100
+AcDbDictionary
+281
+1
+  3
+ACAD_COLOR
+350
+B
+  3
+ACAD_GROUP
+350
+C
+  3
+ACAD_LAYOUT
+350
+D
+  3
+ACAD_MATERIAL
+350
+E
+  3
+ACAD_MLEADERSTYLE
+350
+F
+  3
+ACAD_MLINESTYLE
+350
+10
+  3
+ACAD_PLOTSETTINGS
+350
+11
+  3
+ACAD_PLOTSTYLENAME
+350
+12
+  3
+ACAD_SCALELIST
+350
+14
+  3
+ACAD_TABLESTYLE
+350
+15
+  3
+ACAD_VISUALSTYLE
+350
+16
+  3
+EZDXF_META
+350
+2D
+  0
+DICTIONARY
+  5
+B
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+C
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+D
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Model
+350
+1A
+  3
+Layout1
+350
+1E
+  0
+DICTIONARY
+  5
+E
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+ByBlock
+350
+1F
+  3
+ByLayer
+350
+20
+  3
+Global
+350
+21
+  0
+DICTIONARY
+  5
+F
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Standard
+350
+2C
+  0
+DICTIONARY
+  5
+10
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Standard
+350
+22
+  0
+DICTIONARY
+  5
+11
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+ACDBDICTIONARYWDFLT
+  5
+12
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Normal
+350
+13
+100
+AcDbDictionaryWithDefault
+340
+13
+  0
+ACDBPLACEHOLDER
+  5
+13
+330
+12
+  0
+DICTIONARY
+  5
+14
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+15
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+16
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+LAYOUT
+  5
+1A
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+1024
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+1
+ 71
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+17
+  0
+LAYOUT
+  5
+1E
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+0
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+1
+ 71
+1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+1B
+  0
+MATERIAL
+  5
+1F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByBlock
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+20
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByLayer
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+21
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+Global
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MLINESTYLE
+  5
+22
+102
+{ACAD_REACTORS
+330
+10
+102
+}
+330
+10
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+0
+  3
+
+ 62
+256
+ 51
+90.0
+ 52
+90.0
+ 71
+2
+ 49
+0.5
+ 62
+256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+256
+  6
+BYLAYER
+  0
+MLEADERSTYLE
+  5
+2C
+102
+{ACAD_REACTORS
+330
+F
+102
+}
+330
+F
+100
+AcDbMLeaderStyle
+179
+2
+170
+2
+171
+1
+172
+0
+ 90
+2
+ 40
+0.0
+ 41
+0.0
+173
+1
+ 91
+-1056964608
+ 92
+-2
+290
+1
+ 42
+2.0
+291
+1
+ 43
+8.0
+  3
+Standard
+ 44
+4.0
+300
+
+342
+29
+174
+1
+175
+1
+176
+0
+178
+1
+ 93
+-1056964608
+ 45
+4.0
+292
+0
+297
+0
+ 46
+4.0
+ 94
+-1056964608
+ 47
+1.0
+ 49
+1.0
+140
+1.0
+294
+1
+141
+0.0
+177
+0
+142
+1.0
+295
+0
+296
+0
+143
+3.75
+271
+0
+272
+9
+273
+9
+  0
+DICTIONARY
+  5
+2D
+330
+A
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+CREATED_BY_EZDXF
+350
+2E
+  3
+WRITTEN_BY_EZDXF
+350
+229
+  0
+DICTIONARYVAR
+  5
+2E
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.4.3 @ 2026-02-20T22:37:10.146578+00:00
+  0
+DICTIONARYVAR
+  5
+229
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.4.3 @ 2026-02-20T22:37:10.157806+00:00
+  0
+ENDSEC
+  0
+EOF
